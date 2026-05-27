@@ -1,0 +1,1055 @@
+id,statement,Actual_Label,Predicted_Label,Result
+1678,"""President Obama himself attempted to filibuster Justice Alito, who  now sits on the Supreme Court.""",real,fake,Wrong
+1820,"In Hawaii, ""they don't have a history of throwing incumbents out of office.""",real,real,Correct
+1624,"""Our national debt ... is on track to exceed the size of our entire economy ... in just two more years.""",real,real,Correct
+1576,"""Health insurance companies' costs are only 4 percent of all health care spending.""",real,real,Correct
+1770,"""We can prevent terror suspects from boarding an airplane, but the FBI doesn't have the power to block them from buying dynamite or an AK-47.""",real,fake,Wrong
+1779,"On military recruiters at Harvard, Elena Kagan ""took a position and the  Supreme Court ruled unanimously that she was wrong.""",real,fake,Wrong
+1690,John Paul Stevens is the only Protestant on the U.S. Supreme Court.,real,real,Correct
+2013,"""Crime is down in Arizona.""",real,real,Correct
+1731,"""Fifteen years ago, the assets of the six largest banks in this country totaled 17 percent of GDP ... The assets of the six largest banks in the United States today total 63 percent of GDP.""",real,real,Correct
+1435,"""We cut taxes for 95 percent of working families.""",real,real,Correct
+2019,"""We spend three times more on entitlements and debt services than we do on defense.""",real,real,Correct
+1375,"""I haven't missed a vote since 1993.""",real,real,Correct
+1949,"The national debt ""has gone up by $1,729,000,000 during the Isner v. Mahut match.""",real,real,Correct
+1467,"""The law is very clear! 'The monies recouped from the TARP shall be paid into the general fund of the treasury for the reduction of the public debt.'""",real,real,Correct
+1545,"""The lifespan of the average American is less than that of people in nations that spend far less (on health care). ... To put it bluntly, we spend more and die sooner.""",real,real,Correct
+1488,"""There have been three people tried and convicted by the last administration in military courts. Two are walking the street right now.""",real,fake,Wrong
+1892,"""The House has never failed to pass a budget in the modern era.""",real,real,Correct
+1442,"""President Obama's proposed 'spending freeze' will only reduce the $42 trillion in government spending proposed between 2011 and 2020 by little more than one-half of 1 percent.""",real,real,Correct
+1825,"The Republican Party ""fought very hard in the '60s to get the civil rights bill passed, as well as the voting rights bill.""",real,real,Correct
+1424,"""PWNED: House GOP Dominates Twitter, YouTube, Social Media in Congress.""",real,fake,Wrong
+914,"Democrats have said that ""even one hearing (on the stimulus bill) would be one too many, and that we have a single day to approve these five complex propositions that will affect the lives of millions.""",real,fake,Wrong
+1436,"""Here in Virginia, we have the opportunity to become the first state on the East Coast to explore for and produce oil and natural gas offshore.""",real,real,Correct
+1614,"The health care bill will subsidize families of four that make more than $80,000 a year.",real,real,Correct
+1419,"Democratic presidents ""have been considerably more effective at creating private-sector jobs.""",real,real,Correct
+31,"""Tommy Thompson created the first school choice program in the nation, giving thousands of Milwaukee students the choice of where they go to school â no matter where they live or how much money their parents make.""",real,real,Correct
+35,"""You know we can't just pull out now... The truth of the matter is: If we started today, it would take one year, one year to get 160,000 troops physically out of Iraq, logistically.""",real,real,Correct
+1500,"In the stimulus, ""$15 million dollars  went to 'build a bigger, better airport' for the town of Ouzinkie, Alaska,  population 165.""",real,fake,Wrong
+923,"To give the proposed economic stimulus plan some perspective, ""if you started the day Jesus Christ was born and spent $1 million every day since then, you still wouldnât have spent $1 trillion.""",real,real,Correct
+1454,"""We passed without, frankly, the help of the Republican caucus, we passed 25 tax cuts last year, mostly aimed at the middle class and small businesses.""",real,real,Correct
+58,"""About 40 percent of Hispanic homeowners have subprime mortgages.""",real,real,Correct
+1899,"After J.D. Hayworth ""was voted out of Congress, he became a registered lobbyist"" who was ""paid thousands by a Florida corporation to lobby the very committee he used to serve on.""",real,real,Correct
+261,"""There are 7,000 kids in New Hampshire who have health care because I helped to create the Children's Health Insurance Program.""",real,real,Correct
+1465,"Some Republicans who voted against the stimulus ""have been all too happy to claim credit for Recovery Act projects and the jobs those projects have produced. They come to the ribbon cuttings.""",real,fake,Wrong
+74,"Health insurance premiums ""have almost doubled ... since 2000.""",real,real,Correct
+20,"""I'm for a three-state political solution in Iraq. (Romney) is not.""",real,real,Correct
+15352,"""Hillary Clinton killed in monster truck mishap.""",fake,fake,Correct
+15383,"Says Julia Roberts told Celine Dion, ""If you hate Trump you can go in your country.""",fake,fake,Correct
+14879,"""Breaking: Sasha Obama just crashed her expensive new car into a lake.""",fake,fake,Correct
+120,"""With one stroke of his pen, President Bush has denied health insurance to 3.8 million kids who were due to get it under this bipartisan expansion of the Children's Health Insurance Program.""",real,real,Correct
+13560,"""Sarah Palin Calls To Boycott Mall Of America Because âSanta Was Always White In The Bible.â""",fake,fake,Correct
+118,"""We spent approximately $20-billion of that money on pork barrel, earmark projects. Maybe if we had done it right, maybe some of that money would have gone to inspect those bridges and other bridges across the country.""",real,real,Correct
+7,"""Corporate profits are up, CEO pay is up, but average wages of Americans are flat.""",real,real,Correct
+14597,A flight crew took a knee and stranded the New OrleansÂ Saints on an airportÂ runway.,fake,fake,Correct
+15349,"""Breaking: Michelle Wolf fired -- Comedy Central apologizes to Sarah Sanders.""",fake,fake,Correct
+14233,"""Trump welcomes Jamaica as a U.S. territory""",fake,fake,Correct
+69,"""He has never voted for a federal restriction on gun ownership.""",real,real,Correct
+14699,"""Alabamaâs Crimson Tide was disqualified from national championship.""",fake,fake,Correct
+15294,"""Allegiant Air is rewarding everyone with 2 free plane tickets to celebrate April Aviation Week!""",fake,fake,Correct
+1446,"""Mr. President, multiple times from your administration there have come statements that Republicans have no ideas and no solutions"" on health care.",real,real,Correct
+14885,"""Worldâs most popular candy to be removed from shelves by December 2017.""",fake,fake,Correct
+15327,"""You have been selected to take part in our short survey to get 2 Free Alaska Airlines Tickets!""",fake,fake,Correct
+15129,"Says Jennifer Aniston said, ""Me and all the Trump supporter celebrities decide to make a company named âcelebrities for Trumpâ""",fake,fake,Correct
+15130,"""Trump wins the award Obama never could.""",fake,fake,Correct
+15138,Delta Airlines is offering free airline tickets for people who take a short survey,fake,fake,Correct
+14498,Says Lady Gaga was arrested after a confrontation with First Lady Melania Trump.,fake,fake,Correct
+15201,"""Trey Gowdy breaks his silence after 2 of his investigators are found tortured and killed.""",fake,fake,Correct
+14289,Australia isÂ microchipping its public.,fake,fake,Correct
+14514,"""Mar-A-Lago (was) destroyed by (Hurricane) Irma (and) Jared Kushner (is) still missing.""",fake,fake,Correct
+14517,"""Florida Governor Rick Scott now listed as âcriticalâ after bizarre hurricane cleanup accident.""",fake,fake,Correct
+15208,"""FBI RAIDS OBAMA â Find Massive Secret That Was Hidden For YEARS.""",fake,fake,Correct
+14490,"Says Manny Pacquiao, Usain Bolt and Princes William and Harry have donated tens of millions of dollars to Hurricane Harvey victims.",fake,fake,Correct
+14624,"""Grandparents must pickup up all their grandchildren every weekend no matter what or they will be fined $5,000.""",fake,fake,Correct
+15242,"""Actress Emma Stone: âFor the first time in history we have a president thatâ¦""",fake,fake,Correct
+15046,"Says Michelle Obama said Florida shooting ""is clearly our presidentâs fault.""",fake,fake,Correct
+14395,"""Kim Jong Un killed in (President Donald) Trumpâs overnight black op attack on North Korea.""",fake,fake,Correct
+14836,"""Breaking: Trump fires deputy attorney general Rod Rosenstein, raising questions over Muellerâs fate.""",fake,fake,Correct
+14949,"""Mueller will be forced to resign over Pelosi affair.""",fake,fake,Correct
+15356,"""Breaking: 3 liberal celebrities arrested for conspiracy to assassinate President Trump.""",fake,fake,Correct
+14860,"""Law passed: All child support in the United States will end by beginning of 2018.""",fake,fake,Correct
+13764,"Says ""Hillary Clinton filed for divorce In New York courts.""",fake,fake,Correct
+14733,"Malia Obama was ""among 10 arrested in racist Antifa attack,"" and the cop who arrested her was ""found dead under suspicious circumstances.""",fake,fake,Correct
+14195,"Says ""Scott Baio .. dies in small plane crash.""",fake,fake,Correct
+13854,"""FBI issues Warrant For Obamaâs Arrest After Confirming Illegal Trump Tower Wiretap.""",fake,fake,Correct
+15623,"Says Queen Elizabeth said, ""Muslim refugees are dividing nationality, I fully agree with Donald Trump we should deport them to avoid bloody terrorist attacks.""",fake,fake,Correct
+14643,"""San Juan city council votes unanimously to impeach Trump-hating mayor.""",fake,fake,Correct
+15360,"""Melania Just Hit Donald Trump With Shocking Announcement He Never Saw Coming""",fake,fake,Correct
+15419,"""Hillary Clinton furious at âspecial giftâ Melania Trump sent her from her hospital bed""",fake,fake,Correct
+15606,"""Woman set to testify against Clintons blown up in home explosion.""",fake,fake,Correct
+15482,"""Mitt Romney: âTrump has some very serious emotional problems, he must resign before weâ¦â""",fake,fake,Correct
+15534,"""NASA announced that it communicated with four races of aliens.""",fake,fake,Correct
+14742,"""Snapchat is shutting down!'",fake,fake,Correct
+14755,"BREAKING: Rosa Parksâ Granddaughter SLAMS Racist Democrats, Endorses Trump",fake,fake,Correct
+14770,"""2 million rounds of ammo that âwent missingâ under Obama turns up in enemy hands""",fake,fake,Correct
+15263,"""Dying 78 year old CIA agent admits to killing Marilyn Monroe.""",fake,fake,Correct
+14944,"""Soros, Obama and the Dems Ordered the Shutdown to Stage a Coup""",fake,fake,Correct
+14548,"""House Dems introduce bill to remove citizenship requirement from presidency.""",fake,fake,Correct
+14436,"""Whoopi Goldberg humiliated, handcuffed and dragged out of the TV studio.""",fake,fake,Correct
+2028,"""He (Kirk) did violate Pentagon rules, twice actually, for improperly mingling politics with his military service.""",real,fake,Wrong
+14471,"""President (Donald) Trump pardons Kim Davis.""",fake,fake,Correct
+13957,"""Two liberal Democrat congressmen arrested for planning Trumpâs assassination.""",fake,fake,Correct
+15100,"""Kushner And Wife Ivanka Trump Were Tossed Out Of The White House â And Donald Is Cutting Them Out Of His Will!""",fake,fake,Correct
+13557,"""Pro-Lifers Declare 'Ejaculation Is Murder: Every Sperm Cell Is A Life.'""",fake,fake,Correct
+14984,"""Small business confidence is at an all-time high.""",real,fake,Wrong
+1053,"In Texas, ""the No. 1 name for new male babies â many of whom will vote one day â is Jose.""",real,real,Correct
+13924,"""Colorado Rockies baseball team to sell marijuana brownies at their concession stands.""",fake,fake,Correct
+3221,"""In the month of January, Canada created more new jobs than we did.""",real,real,Correct
+14166,"Says Pat Robertson said, ""We must impose a rule on the gay population that would require them to wear specially-colored clothes.""",fake,fake,Correct
+14264,"""Trey Gowdy is the new director of the FBI!""",fake,fake,Correct
+14644,"""Hillary (Clinton) caught on tape laughing about (Hurricane) Irma âwiping out all of those Florida hillbilliesâ.""",fake,fake,Correct
+14678,"""Youngest world leader bans George Sorosâs Foundations from Austria.""",fake,fake,Correct
+13589,"""Pope Francis To Followers: 'Koran And Holy Bible Are The Same' """,fake,fake,Correct
+15573,"Says Maxine Waters told CNN, ""SCOTUS pick should be illegal immigrant.""",fake,fake,Correct
+14890,"Says Sandra Bullock said to Hillary Clinton, ""If you donât like our president you can leave and never come back again.""",fake,fake,Correct
+14856,"""Update: Chuck Schumerâs steamy affair with a high school cheerleader confirmed.""",fake,fake,Correct
+13773,"""Japanese whaling crew eaten alive by killer whales, 16 dead.""",fake,fake,Correct
+14503,"""Computer models show Irma destroying New York City on Sept. 10.""",fake,fake,Correct
+15256,"""Hollywood actor Bruce Willis: âTrump is the best US president ever, anyone who dislikes him should move to...""",fake,fake,Correct
+15178,"""Obama just broke federal law in attempt to take over presidency from Trump.""",fake,fake,Correct
+15309,"""BREAKING: Nancy Pelosi to resign after new revelations.""",fake,fake,Correct
+15307,"""Obamaâs Private âsecurityâ Company Sets Up Massive Camps Outside 3 Major Cities.""",fake,fake,Correct
+15301,"""Apply Now and Win the Canada Diversity Immigration Visa Lottery (DV-2019) Program | Live and Work in Canada.""",fake,fake,Correct
+15298,"""Denzel Washington: With Trump we avoided war with Russia and Orwellian Police State""",fake,fake,Correct
+200,"""In the African-American community today, 68 percent of kids born are born out of wedlock.""",real,real,Correct
+182,"""Three out of the 18 benchmarks of the (GAO) have been fulfilled. Even among Republican math, that is a failing grade.""",real,real,Correct
+87,"Obama ""won health care for 150,000 people.""",real,real,Correct
+15267,"""Singer Celine Dion Says: âI Canât Even Look At An American Flag Any More, I Hate This Country.â""",fake,fake,Correct
+12773,"Speakers at the Democratic National Convention made ""zero mentions of the global terrorist threat posed by ISIS.""",real,fake,Wrong
+539,"""When he was asked a few years ago whether he could see himself lifting the cap on the payroll tax, (McCain) said, 'I could.' But today he's attacking me for holding the very same position.""",real,fake,Wrong
+15354,"""Thousands killed as Israel Drops Tactical Nuclear Bomb On Syria""",fake,fake,Correct
+15342,"""Bill Gatesâ Former Doctor Says Billionaire âRefused To Vaccinate His Childrenâ""",fake,fake,Correct
+51,"""Currently, we're at 36 percent of our children born out of wedlock.""",real,real,Correct
+14794,"Singer Tina Turner: ""This Thanksgiving Is The First Time in 8 Years That I am Thankful For Our President, God Bless Him And His Supporters.""",fake,fake,Correct
+14026,"""Fox News Sandra Smith: âEverybody could see from the United Airlines passengerâs behavior that he was not a genuine American.â """,fake,fake,Correct
+8152,"""Why didn't (uninsured Americans) buy insurance? Because of the expense.""",real,real,Correct
+14128,"""Jefferson Davis statue to be replaced with Obama likeness.""",fake,fake,Correct
+15280,"""Clinton Email: We must destroy Syria for Israel""",fake,fake,Correct
+15355,"""Black men arrested In Philadelphia Starbucks settle for $2 million""",fake,fake,Correct
+14090,"""Malia Obama arrested with a gang of thugs in Chicago.""",fake,fake,Correct
+13577,"""Electoral College elector commits suicide to avoid voting for Donald Trump.""",fake,fake,Correct
+14126,"""FBI uncovers evidence that 62 million Trump voters are all Russian agents!""",fake,fake,Correct
+15205,"""Robert Redford Says: Michelle And Barack Obama Should Get Five Years In Prison.""",fake,fake,Correct
+14519,"""Muslimsâ disturbing plan comes out after grocery stores go bare to prepare for Irma.""",fake,fake,Correct
+14516,"""Georgia mosque keeps Hurricane Harvey donations, will send to Syrian refugees instead""",fake,fake,Correct
+15386,"""Official: Rudy Giuliani officially resigns, Trumpâs legal team on it's last leg.""",fake,fake,Correct
+15564,"Says Democratic Senators ""demand Supreme Court nominee not be unduly influenced by U.S. Constitution.""",fake,fake,Correct
+14005,"""United Airlines flight attendant slaps crying baby during flight.""",fake,fake,Correct
+15188,"""Florida passes bill legalizing recreational use of marijuana.""",fake,fake,Correct
+14265,Says Johnny Depp died after being apprehended for threatening President Donald Trumpâs life.,fake,fake,Correct
+14815,"""Miss Universe Guyana 2017 arrested at London Heathrow airport with 2 kilograms of cocaine.""",fake,fake,Correct
+13784,"""Starbucks just placed Trumpâs photo on (the) floor so every customer (has) to step on it.""",fake,fake,Correct
+14243,"""Libtard hero Al Franken forced to resign in disgrace.""",fake,fake,Correct
+15291,"""Archbishop Desmond Tutu dies while holidaying in Texas""",fake,fake,Correct
+13806,"Says former NRA president Jim Porter said, ""Itâs only a matter of time before we can own colored people again.""",fake,fake,Correct
+13794,"""Trump just gave every working, legal man, woman and child in the USA $612 each!""",fake,fake,Correct
+15456,"""FOX Network Picks Up âRoseanne,â Saying It Has No Problem With Occasional Racism""",fake,fake,Correct
+14205,"""Edward Snowden: Osama bin Laden is still alive living in the Bahamas.""",fake,fake,Correct
+14213,"""NASA confirms Earth will experience 15 days of darkness In November 2017.""",fake,fake,Correct
+14235,"Says Kellyanne Conway said liberal women hate her because of her ""striking beauty and intellect.""",fake,fake,Correct
+15599,"""In 1984, the New York Times said Trump would be our BEST president.""",fake,fake,Correct
+14342,"""Kim Jong Un dead: North Koreans calling Trump an assassin""",fake,fake,Correct
+14158,"Says U.S. Rep. Trey Gowdyâs 8-year-old son found dead ""in a dumpster in D.C.""",fake,fake,Correct
+14309,"""3,000-Pound Great White Shark Captured in Great Lakes.""",fake,fake,Correct
+15486,"""Investigators: Anthony Bourdain was killed by Clinton operatives.""",fake,fake,Correct
+14286,"""Donald Trump plans to step down as President of the United States and resign from office within the next 30 days.""",fake,fake,Correct
+13600,"Say first grandma Marian Robinson will get a $160,000 annual pension for life when President Barack Obama leaves office.",fake,fake,Correct
+15271,"The ""moon has more than 250 million citizens.""",fake,fake,Correct
+13815,"""300,000 pounds of rat meat sold as chicken wings across America.""",fake,fake,Correct
+14776,"""Pope Francis at Mass: âJesus is Metaphorical, Not Literal.""",fake,fake,Correct
+15164,"""Biden preparing 2020 presidential bid -- with Obama as vice president.""",fake,fake,Correct
+14832,"""Roy Mooreâs accuser arrested and charged with falsification.""",fake,fake,Correct
+14718,"Says ""FBI and Texas State Police are both confirming that Raymond Peter Littleberry, the man accused of shooting up a Texas church, was an avid atheist on the payroll of the Democrat National Committee.""",fake,fake,Correct
+13853,"""Babysitter on crystal meth eats 3-month-old baby.""",fake,fake,Correct
+14904,"""Hollywood celebs: We will go on âtotal strikeâ if Trump does not resign.""",fake,fake,Correct
+14605,"""Celine Dionâs 16-year-old Rene-Charles Angelilâs was among the 58 victims who were killed"" in Las Vegas.",fake,fake,Correct
+13887,"Says U.S. Health and Human Services Secretary Tom Price said, ""Itâs better for our budget if cancer patients die more quickly.""",fake,fake,Correct
+8371,"""For the first time since the Korean War, total federal spending has gone down for two years in a row.""",real,real,Correct
+13827,"Says Whoopi Goldberg said the widow of a Navy SEAL was ""looking for attention.""",fake,fake,Correct
+15158,"""Irish superstar Saoirse Ronan dies after on-set accident in St. Lucia.""",fake,fake,Correct
+95,"""I opposed this war from the beginning. I opposed the war in 2002.  I opposed the war in 2003.  I opposed it in 2004 and 2005 and 2006.""",real,real,Correct
+15533,"""Burka clad woman runs over baby, gets away with crime for one stunning reason ...""",fake,fake,Correct
+15554,"""Maxine Waters Is Getting Criminally Charged!""",fake,fake,Correct
+13816,"""Trumpâs Android device believed to be source of recent White House leaks.""",fake,fake,Correct
+14169,"""Rubio: âRape victims should be in custody if there is suspicion that theyâre planning abortion.â """,fake,fake,Correct
+14211,"""The DEA just raided a United States senator â Dems in a panic.""",fake,fake,Correct
+15137,"""Singer Miley Cyrus: âTrump fans are destroying my career, I canât stand them and I decided to move toâ¦â""",fake,fake,Correct
+13836,"A photo shows ""Obama being dragged before a judge in handcuffs for wiretapping Trump.""",fake,fake,Correct
+15095,"""Legendary actor Kirk Douglas dead, 4 days before his 101st birthday.""",fake,fake,Correct
+9033,"""The average family (is) now bringing home $4,000 less than they did just five years ago.""",real,real,Correct
+14021,"""Trump on revamping the military: Weâre bringing back the draft.""",fake,fake,Correct
+14008,"""Malia Obama expelled from Harvard.""",fake,fake,Correct
+1924,"""Obama put a 10 percent tax on tanning.""",real,fake,Wrong
+396,Obama says Clinton in 2002 suggested there was a connection between al-Qaida and the Iraqi government.,real,fake,Wrong
+14003,"""Tampa man loses testicles after trying to 'fill scuba tank with weed smoke.'""",fake,fake,Correct
+13698,"Says former President Barack Obama ""will be on new $1 dollar bill.""",fake,fake,Correct
+14148,"""NASA will pay you $18,000 to stay in bed and smoke weed for 70 straight days.""",fake,fake,Correct
+13913,"""NBC just fired Megyn Kelly before her new show begins.""",fake,fake,Correct
+13687,"Says Mike Pence said that ""allowing rape victims to have abortions will lead to women trying to get raped.""",fake,fake,Correct
+15591,"""Broward County Sheriff fired for lying about Parkland.""",fake,fake,Correct
+14500,"The Clinton Foundation is sending water to Houston ""for $7 a bottle.""",fake,fake,Correct
+13771,"John Hagee calls for ""prosecuting women who say Godâs name during intercourse.""",fake,fake,Correct
+13559,"""Pence: âMichelle Obama Is The Most Vulgar First Lady Weâve Ever Hadâ""",fake,fake,Correct
+15109,Michelle Obama Just Received Life-Shattering News from the Doctor,fake,fake,Correct
+14954,"""82-year-old who killed a Muslim in self-defense gets the death penalty.""",fake,fake,Correct
+14698,"Says actor Morgan Freeman said, ""Jailing Hillary"" is the best way to ""restore public faith in government.""",fake,fake,Correct
+15487,"""Breaking:Â Mike Huckabee just fired!""",fake,fake,Correct
+14947,"""Bill Clintonâs hitman confesses on his deathbed.""",fake,fake,Correct
+14668,"""Tulsa school closes after brutal fire.""",fake,fake,Correct
+15409,"""CNN to permanently close its doors as ratings plunge 30 percent.""",fake,fake,Correct
+14908,"""Delta Force raids Obama stronghold in Thailand.""",fake,fake,Correct
+8557,"The United States ""has never been richer, if you look at per capita GDP.""",real,real,Correct
+15246,"""Malia Obama suspended after racist anti-white attack goes viral.""",fake,fake,Correct
+14576,"""Washington State Legislature votes to change its name because George Washington owned Slaves.""",fake,fake,Correct
+14565,"""Fox Sports cancels all NFL broadcasts âuntil players respect the flag.â """,fake,fake,Correct
+15404,"""Breaking: SantaÂ Fe killer expresses his love for Obama.""",fake,fake,Correct
+14876,"""Roy Moore takes the military vote, pulls ahead by 5,000 votes""",fake,fake,Correct
+1714,"""No member of the American public has ever been killed by commercial nuclear power â a record unmatched by other fuels.""",real,real,Correct
+13775,"""Target to discontinue sale of Holy Bible.""",fake,fake,Correct
+14310,"Says ""CNN host Fareed Zakaria calls for jihad rape of white women.""",fake,fake,Correct
+15347,"""Bill Gates Outlines 2018 Plan To Depopulate The Planet.""",fake,fake,Correct
+14236,"""Nancy Pelosi suffers breakdown, taken from Capitol Hill on a stretcher.""",fake,fake,Correct
+15401,"""BREAKING NEWS: Donald Trump On His Way To Donate Kidney To Melania Trump.""",fake,fake,Correct
+8805,"In the past three years, state legislatures have ""enacted more of these restrictions (on abortion) than in the previous 10 years combined.""",real,real,Correct
+14361,"Cher ""is moving to Canada because of President Trump.""",fake,fake,Correct
+14406,"Says President Donald ""Trump orders 13 Obama deep state operatives arrested for treason.""",fake,fake,Correct
+15232,"""YouTube witness makes shocking admission on live TV. CNN pulls plug immediately""",fake,fake,Correct
+14355,"SayÂ Oscar Pistorius ""commits suicide in prison.""",fake,fake,Correct
+14394,"""Hillary Clinton has third heart attack â docs says she âwonât surviveâ.""",fake,fake,Correct
+14884,"""Police discover meth lab in back room of Alabama Walmart.""",fake,fake,Correct
+323,"Hillary Clinton ""agreed with (John McCain) on voting for the war in Iraq.""",real,fake,Wrong
+15368,"""Eric Schneiderman helped NXIVM sell child sex slaves to the Clintons""",fake,fake,Correct
+13807,"Says White House adviser Steve Bannon said, ""Nobody can blame you for beating your wife if itâs out of love.""",fake,fake,Correct
+14841,"""Update: van full of illegals caught voting at multiple Alabama polling locations.""",fake,fake,Correct
+1741,"""Congress can tell [the Supreme Court] which cases they ought to hear. We have that authority.""",real,real,Correct
+10889,"""For the first time in 35 years, we have more businesses dying than we do starting.""",real,real,Correct
+15204,"""Emma Gonzalez bullied school shooter, isnât sorry; then retweets message blaming âwhite boysâ entitlementâ as cause of all school shootings""",fake,fake,Correct
+13820,"Says former president Jimmy Carter said, ""Medical marijuana cured my cancer.""",fake,fake,Correct
+14893,"""Breaking: FBI just raided the White House, 6 people thrown out.""",fake,fake,Correct
+14454,"Says ""Barcelona terrorist"" is cousins with former President Barack Obama.",fake,fake,Correct
+15241,"""All Citizens Who Want to Receive Gvt Benefits Must Agree to Be Microchipped in the Near Future""",fake,fake,Correct
+14408,"Tornado carries mobile home 130 miles, family inside unharmed.",fake,fake,Correct
+14333,Shepard Smith was fired from Fox News.,fake,fake,Correct
+14330,"""There was someone else on that plane for the secret Bill Clinton/Loretta Lynch meeting.""",fake,fake,Correct
+14328,"""Malia Obama Fired From Cushy Internship At Spanish Embassy""",fake,fake,Correct
+14327,"""White House chef quits because Trump has only eaten fast food for 6 months.""",fake,fake,Correct
+14301,"Says former Rep. Michele Bachmann said that ""White People Have Suffered More In The Last 8 Years Than Blacks Did During Couple Years Of Slavery.""",fake,fake,Correct
+14293,"Spicer: ""Trump has the legal right to cancel SCOTUS because they serve at his pleasure""",fake,fake,Correct
+14285,"Says the manager of a Checkers in Miami Gardens, Fla., killed 10 employees.",fake,fake,Correct
+14472,Photo shows a shark swimming on a freeway in Houston.,fake,fake,Correct
+14475,"Says Adam Sandler said ""Mormons are some of the most decent people Iâve ever come across.""",fake,fake,Correct
+65,"""I've cast a couple of 99-1 votes"" and been the lone dissenter.",real,fake,Wrong
+14694,"""Hillary Clinton leaves the country as Mueller indictment is announced.""",fake,fake,Correct
+14567,"""12 more hurricanes headed towards U.S.""",fake,fake,Correct
+14544,"""Susan Rice arrested for criminal âunmaskingâ of Trump officials.""",fake,fake,Correct
+14950,"Says Donald Trump is ""canceling funding for Obamaâs free house and library.""",fake,fake,Correct
+114,"""She stood by ground zero workers who sacrificed their health after so many sacrificed their lives and kept standing till this administration took action.""",real,real,Correct
+14789,"""President Trump just saved Christmas for 13 million retirees.""",fake,fake,Correct
+129,"""First, he said he would leave residual forces in Iraq, and now he says he wouldn't.""",real,fake,Wrong
+14270,"""Leonardo DiCaprio explains why heâs moving to Casselberry, Florida.""",fake,fake,Correct
+11899,"""The African-American community lost half of their wealth as a result of the Wall Street collapse.""",real,real,Correct
+13999,"""Texas law enforcement officer fatally shot upon arriving for work by 3 Muslim refugee.""",fake,fake,Correct
+15224,"""Obama secretly flees US - leaves stunning evidence behind.""",fake,fake,Correct
+13934,"""Ken Starrâs plane just disappeared on his way to D.C. to testify against Hillary (Clinton).""",fake,fake,Correct
+10877,"If you count United States airstrikes against ISIS, ""75 percent of those combat missions return to base without having fired a weapon.""",real,real,Correct
+15097,"""ALERT: Massive Easter Egg Recall Leaves MILLIONS Of Children In Danger- THROW THEM AWAY- They WILL Kill Your Kids.""",real,fake,Wrong
+10413,"Over the past five years, the American automobile industry has ""created about 500,000 new jobs.""",real,real,Correct
+14052,"""Donald Trump to issue an executive order to ban Facebook across U.S.""",fake,fake,Correct
+15304,"""USDA approves slaughterhouses producing horse meat for human consumption""",fake,fake,Correct
+15018,"""Smoking in cars with children is illegal starting January 30, 2018.""",fake,fake,Correct
+15631,"""Lisa Page squeals: DNC server was not hacked by Russians.""",fake,fake,Correct
+312,"""We have more coal reserves in the United States than they have oil reserves in Saudi Arabia.""",real,real,Correct
+13132,"""The gun epidemic is the leading cause of death of young African-American men, more than the next nine causes put together.""",real,real,Correct
+15048,"""Trump declares globalist Soros as ânational security threatâ using Obamaâs 2014 executive order.""",fake,fake,Correct
+12079,"""Six justices"" on the U.S. Supreme Court have been ""confirmed in presidential election years since 1912.""",real,fake,Wrong
+14887,"Says Shaquille OâNeal said Donald Trump ""is possibly the best president.""",fake,fake,Correct
+13548,"""On Oct. 7, the Access Hollywood tape comes out. One hour later, WikiLeaks starts dropping my emails.""",real,fake,Wrong
+926,"The stimulus bill contains ""$20 million for the removal of small to medium-sized fish passage barriers"" and ""$25 million to rehabilitate off-roading trails for ATVs.""",real,real,Correct
+13608,"""Chinese restaurant in Coral Springs, Fla., busted for selling dog meat to VIP customers.""",fake,fake,Correct
+13601,Says Donald Trump warnedÂ outgoing Ghana President against last-minute job appointments.,fake,fake,Correct
+8069,"""The income of the top 1 percent nearly quadrupled from 1979 to 2007, but the typical familyâs incomes barely budged.""",real,real,Correct
+966,"""Tens of billions of dollars (from taxpayer-funded bailouts) ... flowed straight through AIG into the coffers of foreign corporations and foreign banks.""",real,real,Correct
+13565,"""Obama orders ban on Christmas cards to military.""",fake,fake,Correct
+9622,"""More women are graduating from college now than men.""",real,real,Correct
+13703,"The HIV virus has been ""detected in Walmart bananas after 10 year old boy contracts the virus.""",fake,fake,Correct
+15156,"""Court orders Obama to pay $400 million in restitution.""",fake,fake,Correct
+13731,"""Idaho mother sentenced to prison after multiple citations for breastfeeding in public.""",fake,fake,Correct
+939,"""We are making the largest investment in education in our nationâs history.""",real,real,Correct
+13724,"SaysÂ ""President Trump makes English the official language of the United States!""",fake,fake,Correct
+1281,"A ""fairly limited number of people, 25 million to 30 million,"" will be allowed to access a national health insurance exchange.",real,fake,Wrong
+15399,"""BREAKING: 60 people just found dead in Ohio""",fake,fake,Correct
+15514,"""Busted: Obama is holding secret meetings to overtake the White House""",fake,fake,Correct
+14492,"""Navy destroyer strikes a building in downtown Houston.""",fake,fake,Correct
+14905,"""Queen Elizabeth removes Obamas from royal wedding guest list.""",fake,fake,Correct
+14693,"""Breitbart leaks names of four Dems being charged in Muellerâs Russia probe.""",fake,fake,Correct
+14543,"""U.S. comedian Kevin Hart in critical condition after gory car crash.""",fake,fake,Correct
+13823,"""Man pardoned by Obama threeÂ months ago arrested for murder.""",fake,fake,Correct
+15217,"""Application for March for Our LivesÂ permit was made months before Parkland shooting""",fake,fake,Correct
+11552,"""There are more words in the IRS code than there are in the Bible.""",real,real,Correct
+15427,"""USA: Mysterious Nazi submarine from WWII discovered in Great Lakes!""",fake,fake,Correct
+3251,"The federal government ""can cut all of the non-military discretionary spending and not balance the budget.""",real,real,Correct
+8621,"""We, the bishops of the United States -- can you believe it -- in 1919 came out for more affordable, more comprehensive, more universal health care.""",real,fake,Wrong
+14564,"""NFL fines Pittsburgh Steelers $1 million each for skipping national anthem.""",fake,fake,Correct
+14247,"""Chinese lunar rover finds no evidence of American moon landings.""",fake,fake,Correct
+14043,"""Trump wants to deport American Indians to India.""",fake,fake,Correct
+12924,"""Most Americans support"" the legalization of marijuana.",real,real,Correct
+14273,Minnesota imposed an Islamic anti-blasphemy law.,fake,fake,Correct
+15292,"""Laura Ingraham just fired!!!""",fake,fake,Correct
+8995,"""Over the past three years, âdeep povertyâ has reached its highest level on record.""",real,real,Correct
+14187,"Says ""Monica Lewinsky Found Dead""Â in a burglary.",fake,fake,Correct
+228,"""Five percent of Americans pay over half the income taxes in this country. Forty percent of Americans pay no income taxes at all.""",real,real,Correct
+14207,"Says Keanu Reeves gave a speech that began, ""I cannot be part of a world where men dress their wives as prostitutes by showing everything that should be cherished ...""",fake,fake,Correct
+12944,"""In Congress right now, we're doing the best job we have ever done in women in the federal legislature,"" but itâs still only ""19 percent.""",real,real,Correct
+14222,"""Democrat Maxine Waters has shown up to only 10 percent of congressional meetings for 35 years.""",fake,fake,Correct
+14085,"""Bill OâReilly in critical condition after being attacked by âtolerantâ liberals.""",fake,fake,Correct
+14452,"""Rosa Parksâ daughter praises (President Donald) Trumpâs response to Charlottesville.""",fake,fake,Correct
+11777,"""Today, if you were raised poor, youâre just as likely to stay poor as you were 50 years ago.""",real,real,Correct
+8221,"Fleeing Syria, ""a million children are now refugees.""",real,fake,Wrong
+13936,"""Autopsy results from Vince Fosterâs exhumed body â Cause of death to be changed!""",fake,fake,Correct
+13570,"""Secret Service Agent Says Obama Is Muslim & Gay In New Tell-All Book""",fake,fake,Correct
+11761,"Says Marco Rubio ""knows full well I voted for his amendment to increase military spending to $697 billion.""",real,fake,Wrong
+14417,"""Barron Trump Rushed To The Hospital, Hospital Releases Statement On His Condition""",fake,fake,Correct
+13584,"""Donald Trump dead from a fatal heart attack!""",fake,fake,Correct
+14306,"""Obama goes to G20 summit ... Â Everywhere President Donald Trump goes, Obama shows up, too.""",fake,fake,Correct
+15562,"""George H.W. Bush has died at 94.""",fake,fake,Correct
+13987,"Says President Barack Obama ""tax audit exposes MILLIONS in offshore accounts stolen from taxpayers.""",fake,fake,Correct
+13955,"""Police find 19 white female bodies in freezers with âBlack Lives Matterâ carved into skin.""",fake,fake,Correct
+12751,"""Our trade deficit in goods reached nearly â¦ $800 billion last year alone.""",real,real,Correct
+14727,"Says the University of Florida ""requests to cancel rivalry game"" against Florida State University.",fake,fake,Correct
+14855,"""UPDATE: âThousandsâ voted for Doug Jones in Alabama town with population of 2,256""",fake,fake,Correct
+14737,"""Supreme Court issues its first bench warrant ever.""",fake,fake,Correct
+15187,"Says Emma Gonzalez, a survivor of the Parkland school shooting, ripped up a copy of the U.S. Constitution",fake,fake,Correct
+15206,NASA Has Just Confirmed Earth Has A New Moon,fake,fake,Correct
+1019,"""Our government has now 'spent, lent, or committed' $12.8 trillion in its attempt to blunt the recession.""",real,real,Correct
+15494,"""Breaking: Shep Smith to be canned because he canât control his hate for Donald Trump.""",fake,fake,Correct
+8310,"If the government shuts down, ""all military personnel will continue to serve and accrue pay but will not actually be paid until appropriations are available.""",real,real,Correct
+52,"""Sen. Obama worked on some of the deepest issues we had and was successful in a bipartisan way.""",real,fake,Wrong
+15416,"""Jeff Sessions Caught Colluding with Obama""",fake,fake,Correct
+986,"""Congress shoveled $700 billion into the Troubled Assets Relief Program, $325 billion of which has been spent without purchasing any toxic assets.""",real,real,Correct
+13468,Says Denzel Washington supports Donald Trump and speaks out against Barack Obama.,fake,fake,Correct
+1701,"""I never had a filibuster-proof Senate.""",real,real,Correct
+14404,"Says Russian President Vladimir Putin said Pope Francis ""is not a man of God.""",fake,fake,Correct
+8778,"""For the first time in nearly two decades, we produce more oil here in the United States than we buy from the rest of the world.""",real,real,Correct
+14818,"""Obama released 10 Russian agents from U.S. custody in 2010 during Hillaryâs uranium deal.""",fake,fake,Correct
+13310,"Says Donald Trump ""used undocumented labor to build the Trump Tower.""",real,fake,Wrong
+14362,"""Russian mansions Obama seized were meant to be illegal gifts to Sasha and Malia""",fake,fake,Correct
+14960,"""Haiti official getting ready to testify against Clinton Foundation corruption next week found dead with gunshot to the head.""",fake,fake,Correct
+14481,"""Floyd Mayweather Jr. donates a whopping sum of money to Houston after hurricane.""",fake,fake,Correct
+12770,"""I wake up every morning in a house (the White House) that was built by slaves.""",real,fake,Wrong
+15545,"""A Trump fan was just charged with trying to murder Maxine Waters on same day Trump threatened her.""",fake,fake,Correct
+14795,"""Saudi Arabia to Behead 6 School Girls for Being With Their Male Friends Without Parents or a Guardian""",fake,fake,Correct
+15096,"Says Keanu Reeves said, ""For me, Trump is the symbol of a successful man and a role model for every young American, something that our nation was looking for for year. I donât think that America will again have a leader like him.""",fake,fake,Correct
+15540,"""Red Hen owner just issued sick threat to Sarah Sanders""",fake,fake,Correct
+15626,"""Clint Eastwood Leaves His Estate To The Trump 2020 Campaign""",fake,fake,Correct
+15141,"The U.S. Supreme Court ruled that public school in the United States ""will not teach the tenets of Islam or Sharia Law.""",fake,fake,Correct
+15030,"""Obama did in fact unconstitutionally spy on Trump throughout the presidential election.""",fake,fake,Correct
+14062,"""Sarah Palin in a coma after hit and run.""",fake,fake,Correct
+181,"""Well, you know, the Teamsters wanted to drill in Alaska. I voted against drilling in Alaska. So it's not like I'm a slam dunk on every issue.""",real,real,Correct
+13751,"Says Donald Trump was ""caught investing in (the) Dakota Pipeline before signing it.""",fake,fake,Correct
+15398,"""Prince William May Not Attend Royal Wedding Leaving Harry Without a Best Man; Princess Diana Would Not Be Happy""",fake,fake,Correct
+13744,"Says there is a ""new law now charging all protesters with terrorism.""",fake,fake,Correct
+15037,"""Russian source behind fake Trump dossier killed in Russian plane crash, Rosatom CFO also dead""",fake,fake,Correct
+14123,"""Barack Obama arrested in a Japanese drug bust.""",fake,fake,Correct
+1325,"Obama has admitted a cap and trade plan would cause electricity bills to ""skyrocket.""",real,real,Correct
+1560,"""When Social Security started, age expectancy for the average man was 58. It was 62 -- 62 for women.""",real,real,Correct
+14112,"""Clinton Foundation cargo ship raided at Port of Baltimore"" caught smuggling 460 undocumented immigrants.",fake,fake,Correct
+14859,"""Alabama state police arrest 3 poll workers in Birmingham.""",fake,fake,Correct
+14305,"Says Paul Ryan said that 22 million Americans ""choose to be poor, so itâs their own problem if they canât afford to be healthy.""",fake,fake,Correct
+12748,"""Forty-three million Americans are on food stamps.""",real,real,Correct
+14896,"""Trump: police officers and firefighters make too much moneyâ¦hits them with tax penalty.""",fake,fake,Correct
+8838,"There is ""more oil produced at home than we buy from the rest of the world â the first time thatâs happened in nearly 20 years.""",real,real,Correct
+13982,"Says Ohio Gov. John Kasich said,Â ""If a woman is not intelligent enough to keep her legs closed, how can we entrust the abortion decision to her?""",fake,fake,Correct
+1201,"""Mathematically, the White Sox can still get in the playoffs.""",real,fake,Wrong
+15367,"""Pope Francis: Gun owners âcanât call themselves Christianâ""",fake,fake,Correct
+14258,Says investigators have found remains of missing women in steel barrels buried on Bill and Hillary Clintonâs property.,fake,fake,Correct
+15210,BREAKING: Trump Just Ended Welfare For One HUGE Group For 5 Years!,fake,fake,Correct
+7968,"If it is enacted, the Senate immigration bill is ""going to make the Border Patrol bigger than the FBI -- you could put one agent every 250 feet.""",real,real,Correct
+13226,"""Right now we are at 90 percent health insurance covered. That's the highest we've ever been in our country.""",real,real,Correct
+11577,Says income tax rates under Eisenhower were as high as 90 percent.,real,real,Correct
+15429,"""Actor Brad Pitt: âTrump is not my president, we have no future with thisâ¦â""",fake,fake,Correct
+14621,"""President Trump signs executive order stripping NFL of ânon-profitâ status.""",fake,fake,Correct
+15207,David Hogg graduated from Redondo Shores High School in 2015.,fake,fake,Correct
+15189,"""80% of black men in Atlanta are Homosexuals, study says""",fake,fake,Correct
+374,"Clinton said ""great things about NAFTA until she started running for president.""",real,fake,Wrong
+14601,"Says ""the Kardashians donate whopping sum to Las Vegas mass shooting victims""",fake,fake,Correct
+14356,"Say Gretchen Carlson said, ""The 2nd Amendment Was Written Before Guns Were Invented.""",fake,fake,Correct
+787,"Under Barack Obama's health care proposal, ""if you've got a health care plan that you like, you can keep it.""",real,fake,Wrong
+15553,"""Clinton campaign official arrested by FBI on child rape/trafficking charges""",fake,fake,Correct
+13593,Says a celebrity praises locals for their help after an automotive breakdown.,fake,fake,Correct
+14814,"""New Jersey police chief says black people âhave no valueâ and should all be executed.""",real,fake,Wrong
+13978,"""Evangelical leader says those who oppose Trump could be âpunishedâ with gay child.""",fake,fake,Correct
+15370,"""BREAKING: Queen Elizabeth II Dead At 94""",fake,fake,Correct
+15584,"""Facebook removes, censors Declaration of Independence as âhate speechâ""",real,fake,Wrong
+10332,"""We're spending millions for each individual"" held at Guantanamo Bay, Cuba.",real,real,Correct
+13663,"Says BarackÂ ""Obama orders life-sized bronze statue of himself to be permanently installed in White House.""",fake,fake,Correct
+15655,ABC News recently banned reporters from wearing American flag lapel pins on air.,fake,fake,Correct
+12104,"""According to the Centers for Disease Control and Prevention (CDC), about 120 Americans on average die from a drug overdose every day. Overall, drug overdose deaths now outnumber deaths from firearms.""",real,real,Correct
+15268,"""Red Crescent Says No Evidence of Chemical Attack in Syriaâs Douma.""",fake,fake,Correct
+13720,"Says President Donald Trump ""signs a visa-free travel policy"" for Ghana and Malawi.",fake,fake,Correct
+14785,"""Southwest Airlines celebrating 50th anniversary by providing 2 free tickets to everyone!""",fake,fake,Correct
+11931,"""There's never been a (U.S. Supreme Court) vacancy in the last, I think, 30 years, lasting longer than 237 days.""",real,real,Correct
+14788,"""Melania Trump: 'If ISIS Lays a finger on Barron, Iâll scratch Obamaâs eyes out.' """,fake,fake,Correct
+15331,"""CNN shocks America, fires âjournalistâ who made fun of Sarah Sandersâ face""",fake,fake,Correct
+212,"Romney said ""'No' to in-state tuition"" for illegal immigrants.",real,real,Correct
+779,"""Senator McCain has been talking tough about earmarks, and that's good, but earmarks account for about $18-billion of our budget.""",real,real,Correct
+4634,"""When we got the income tax in 1913, the top rate was 7 percent. By 1980, the top rate was 70 percent.""",real,real,Correct
+11747,"""Our businesses have created jobs every single month since (Obamacare) became law.""",real,real,Correct
+1783,"Greece ""has a GDP the size of the Dallas-Fort Worth Metroplex.""",real,real,Correct
+98,"""With those first principles, it allowed a fellow like me to get in his truck and go from one end of the state to the other; started 20 points down and wound up 20 points ahead on election night.""",real,real,Correct
+756,"Says that under his tax plan, seniors making less than $50,000 per year won't pay any income taxes.",real,real,Correct
+772,"""You ... said that Barack Obama was not ready to be commander in chief.""",real,real,Correct
+8629,"""By the time she turns 3 years old, a child born into a low-income home hears 30 million fewer words than a child from a well-off family.""",real,real,Correct
+14507,"""ISIS Lays Down Arms After Katy Perryâs Impassioned Plea To âLike, Just Co-Existâ""",fake,fake,Correct
+3131,"""We're borrowing 40 cents of every dollar we spend.""",real,real,Correct
+156,"""The Alternative Minimum Tax...was created by Congress in 1969 to affect 155 wealthy Americans. Because it was never indexed for inflation, those original 155 taxpayers has increased to affect about 3.5-million in 2006.""",real,real,Correct
+15108,"""BREAKING Trump Removes Muslim Federal Judge For Trying To Implement Sharia Law In America""",fake,fake,Correct
+229,"""We've got some 37-million of our fellow citizens who are living in poverty; about 12-million or 13-million are children.""",real,real,Correct
+14388,"Says a New York physician and his wife jumped to their deaths because they ""canât afford"" Obamacare.",fake,fake,Correct
+14587,Says a photograph shows Seattle Seahawks player Michael Bennett burning the United States flag.,fake,fake,Correct
+93,"""Social Security ... is solid through about 2040 without any changes whatsoever.""",real,real,Correct
+15270,"""Obama Announces Bid To Become UN Secretary General""",fake,fake,Correct
+315,"""Two-thirds of our economy is a consumer economy.""",real,real,Correct
+13893,"Says ""(Barack) Obamaâs mother-in-law charged with larceny and fraud.""",fake,fake,Correct
+1519,"""Since 1981, reconciliation has been used 21 times. Most of it's been used by Republicans.""",real,real,Correct
+14878,"""Julia Roberts claims âMichelle Obama isnât fit to clean Melaniaâs toiletâ """,fake,fake,Correct
+13544,"""Florida Moves For FULL RECOUNT Of State Over Massive Voter Fraud""",fake,fake,Correct
+13193,"Says Philando Castile ""had been stopped by police 40 or 50 times before that fatal incident.""",real,real,Correct
+14238,"""Cannibals arrested in Florida claim eating human flesh cures diabetes and depression""",fake,fake,Correct
+13467,A picture shows former President Bill Clinton naked with another woman.,fake,fake,Correct
+14700,"""California Democrat Maxine Waters charged on 3 counts.""",fake,fake,Correct
+13477,"Says John Bolton supported the Iraq War and said last year thatÂ ""I still think the decision to overthrow Saddam was correct.""",real,fake,Wrong
+13617,"Says ""Justice Ruth Bader Ginsburg is resigning from the post of associate justice of the Supreme Court.""",fake,fake,Correct
+15146,"""Democrats announce they will abolish ICE if they win 2020 election.""",fake,fake,Correct
+11294,"""I'm the only governor in America ... who signed a law that says there needs to be an independent investigation any time there's a death of someone in police custody.""",real,real,Correct
+14811,"""Tennessee GOP twitter taken down after tweet exposing Pelosi involved in pedophilia.""",fake,fake,Correct
+14376,"""Barack Obama tweets sick attack on John McCain, says he should have died.""",fake,fake,Correct
+14993,"Democrats ""booed families of children murdered by MS13.""",fake,fake,Correct
+14745,"""Second Roy Moore Accuser Works For Michelle Obama Right NOW""",fake,fake,Correct
+15159,Say Charleston church shooter Dylann Roof was raped and beaten in prison.,fake,fake,Correct
+14756,Donna Brazile knows Seth Rich was murdered by the Clintons,fake,fake,Correct
+14556,"Says ""Carnival Cruise Lines will now offer free cruises"" to hurricane victims.",fake,fake,Correct
+14448,"""White supremacist who killed protester is a Democrat and visited (President Barack) Obama in Oval Office.""",fake,fake,Correct
+15147,"""Putin issues international arrest warrant for Soros""",fake,fake,Correct
+12556,"Says Hillary Clinton ""said she was under attack (in Bosnia) but the attack turned out to be young girls handing her flowers.""",real,fake,Wrong
+14278,"""U.N. official John Ashe set to testify against the Clintons may not have died by accident.""",fake,fake,Correct
+14259,"""Massive Bumble Bee recall after 2 employees admit cooking a man and mixing him with a batch of tuna.""",fake,fake,Correct
+179,"""When Sen. Edwards ran in 2004, he wasn't for universal health care. I'm glad he is now.""",real,real,Correct
+15287,"""British Intelligence Seizes Clinton Foundation Warehouse, $400 Million In Cash.""",fake,fake,Correct
+14620,"""Jason Aldean gig canceled after he sells out to liberals on âSNLâ.""",fake,fake,Correct
+14311,Says two of U.S. Rep. Nancy Pelosiâs daughters were arrested for smuggling drugs.,fake,fake,Correct
+15362,"""Democrats go full tyranny: now demand nationwide gun confiscation from law-abiding Americans ... at gunpoint, of course.""",fake,fake,Correct
+14119,"""Fox star Tucker Carlson in critical condition (then died) after head on collision driving home.""",fake,fake,Correct
+14071,"""Lindsey Graham threatens to convert to Democrat if Republicans donât Dump Trump.""",fake,fake,Correct
+12411,"""We now do have evidence"" that Donald Trump is being used as a recruiting tool for terrorists.",real,fake,Wrong
+13677,"Says ""Meryl Streep just got fired from a major project for lying about Trump.""",fake,fake,Correct
+15049,"Says Melania Trump hired exorcist to ""cleanse White House of Obama demons.""",fake,fake,Correct
+15505,"""Senate report admits Clinton âgiftedâ children to human traffickers""",fake,fake,Correct
+13747,"Says Bill Gates tweeted, ""I think Donald Trump will go down to history as one of the greatest presidents, just like Reagan.""",fake,fake,Correct
+14040,"Says Eric Trump said, ""My fatherâs tax return is irrelevant because weâre going to cancel taxes for WEALTHY people anyway.""",fake,fake,Correct
+9196,"Americans spend ""6.1 billion hours a year"" on tax preparation.",real,fake,Wrong
+2131,The Latino unemployment rate is higher than the white rate and the black rate is higher than the Latino rate.,real,real,Correct
+14145,"""Donald Trump praises Colonel Sanders for his service in the Civil War.""",fake,fake,Correct
+14297,"Says ""James Comey Has Been Having An Affair With"" Debbie Wasserman Schultz.",fake,fake,Correct
+13541,"""Obama-Led U.N. Has Just Made It Official, U.S. To Immediately Pay Blacks 'Reparations'.""",fake,fake,Correct
+8846,"""Every four minutes, another American home or business goes solar.""",real,real,Correct
+14667,Sarah Huckabee Sanders dressed up as KKK member on Halloween in 1993.,fake,fake,Correct
+8737,"""Our economy still has three people looking for every job (opening).""",real,real,Correct
+2128,"""We've seen six months of positive job growth by the private sector.""",real,real,Correct
+15539,"Kurt Russell said that celebrities shouldn't ""get political"" when it comes to Donald Trump.",fake,fake,Correct
+11189,"""African-American children are 500 percent more likely to die from asthma than white kids.""",real,real,Correct
+14992,"""Rep. Paul Gosar asks Capitol Police to arrest illegal immigrants attending State of the Union.""",real,fake,Wrong
+15334,"""Smallville star confesses she sold children to Rothschilds and Clintons.""",fake,fake,Correct
+15123,"The flu shot is ""designed to spread cancer.""",fake,fake,Correct
+13711,"Says President Donald Trumpâs ""executive order leads to capture of ISIS leader, Rasheed Muhammad.""",fake,fake,Correct
+14998,"Says that singer Dolly Parton said,Â ""Trump in one year is already better than 16 years of Bush, Obama put together.""",fake,fake,Correct
+14831,"""Breaking: woman says she was offered big money by Washington Post to accuse Roy Moore of misconduct.""",fake,fake,Correct
+8470,"In Massachusetts, ""half of the primary care doctors are not accepting new patients.""",real,real,Correct
+15630,"""Hillary in hiding as police discover dead body hidden in Huma Abedinâs dumpster.""",fake,fake,Correct
+14839,"""Morgue employee cremated by mistake while taking a nap.""",fake,fake,Correct
+3584,"""Foreign aid makes up about 1 percent of our entire budget.""",real,real,Correct
+9576,"""If you're a Mexican, you get sent back. ... But if you're from a noncontiguous country like the Central American countries"" then you can stay in the United States.",real,fake,Wrong
+13475,"""Donald Trump Protester Speaks Out: 'I Was Paid $3,500 To Protest Trump's Rally.' """,fake,fake,Correct
+10185,"The last time Republican U.S. Senate candidates ""beat more than two (incumbents) was 1980.""",real,real,Correct
+14095,"""Clinton Foundation ordered to cease operations â Chelsea (Clinton) charged with fraud!""",fake,fake,Correct
+9438,"By 2009, ""dozens of senior terrorists had been taken off the battlefield"" by drones.",real,real,Correct
+15492,"""Trumpâs DHS secretary confirms they are preparing to arrest sanctuary city leaders.""",fake,fake,Correct
+4069,"""Young veterans have a higher unemployment rate than people who didnât serve.""",real,real,Correct
+14888,"""Trump vows to end winter heating assistance for elderly and disabled.""",fake,fake,Correct
+10276,"In 2010, uninsured voters made up ""about 5 percent of the electorate.""",real,real,Correct
+13855,"""One-third of the counties â think of it, one-third â only have one insurer left"" on the Affordable Care Act exchanges.",real,fake,Wrong
+128,"""What happens is people like Warren Buffett â and he says this himself...pay 15 percent on the millions of dollars that they earn from wealth income... while their secretary is paying a higher rate on her work income. It's not right.""",real,real,Correct
+15161,An all-female construction company built the Florida bridge that collapsed.,fake,fake,Correct
+13395,"Says of Donald Trump, ""He even said, on his very first day in office, he would require every school in America to let people carry guns into our classrooms.""",real,fake,Wrong
+674,"When oil and gas prices sent state revenues up, Palin sent ""a large share of that revenue directly back to the people of Alaska.""",real,real,Correct
+86,"""In New York, when she ran for reelection, she carried 58 of our 62 counties. George Bush had won 40 counties in New York just two years earlier.""",real,real,Correct
+13013,"Says Hillary Clinton ""wants to increase Syrian refugees to this country by 550 percent.""",real,real,Correct
+15251,"Says Buzz Aldrin ""passes UFO lie detector test leaving experts convinced that he encountered alien life.""",fake,fake,Correct
+351,"""Senator Obama has, in fact, never had a serious Republican challenger.""",real,real,Correct
+14810,"""Breaking: federal judge grants permission to subpoena Trump.""",fake,fake,Correct
+10408,"""America is No. 1Â one in oil and gas.""",real,real,Correct
+13305,"""Heroin .. pours across our southern borders.""",real,real,Correct
+15501,"""Trump approval rating better than Obama and Reagan at same point in their presidencies.""",real,fake,Wrong
+14051,"""Trump warns Russia over Jehovahâs Witnesses ban and urges members to seek asylum in the U.S.""",fake,fake,Correct
+2450,"Children born today will carry a $30,000 share of the national debt.",real,real,Correct
+13576,"""Breaking: Crew of Air Force One Refuses to Fly Obama 6000 miles âJust to Play Golfâ """,fake,fake,Correct
+11855,"China is ""practicing how to blow up our satellites.""",real,real,Correct
+2724,"""Most of the jobs that we lost were lost before the economic policies we put in place had any effect.""",real,real,Correct
+15052,"In Parkland, Fla. ""the mass murderer was immersed in Islamic and leftwing hate.""",fake,fake,Correct
+13973,"Says ""2 moms, 5 kids killed in car crash"" in a nearby county.",fake,fake,Correct
+13591,Says Vicks VapoRub caused a childâs death.,fake,fake,Correct
+15475,"""National Guard storms Mexico border, makes game-changing impact in just 30 days""",real,fake,Wrong
+14190,"""Trump Removing Marines From the Navy.""",fake,fake,Correct
+15017,"""Just in: 45 states just banned Sharia law""",fake,fake,Correct
+57,"""Thirty-four percent of Hispanics don't have any health care at all, don't have any health insurance.""",real,real,Correct
+9512,"Says Iowa Senate candidate Joni Ernst ""promises to shut down the Department of Education and abolish the EPA.""",real,fake,Wrong
+14759,Bowe Bergdahl wanders off during court-martial,fake,fake,Correct
+1612,"""There will be no public funding for abortion in this legislation.""",real,fake,Wrong
+4588,"Says he ""came to the Republican Party sooner in age"" than Ronald Reagan.",real,fake,Wrong
+14164,President Trump greenlighted Congress to ramp up Clinton investigation.,fake,fake,Correct
+14862,"""Breaking: Muslim New Jersey Mayor just banned the word âChristmas.â""",fake,fake,Correct
+14777,"""âThe largest bust in U.S. historyâ 412 Muslims arrested from Michigan!""",fake,fake,Correct
+8987,"Says ""by 4th grade, 86 percent of African-American boys and 82 percent (of) Hispanic boys are reading below proficiency levels.""",real,real,Correct
+227,"""Productivity has risen 18 percent ...yet wages have stayed flat... There are 5-million more people in poverty here in our country than there were in 2000.""",real,real,Correct
+13765,"Says Sen. John McCain was ""caught making highly illegal phone call to foreign country.""",fake,fake,Correct
+3228,Orrin Hatch co-sponsored a 1993 health care bill that had an individual mandate.,real,fake,Wrong
+13833,"Says 70 percent of benefits in Donald Trumpâs proposal for child care ""go to the people making over $100,000 a year.""",real,real,Correct
+14386,"Says Debbie Wasserman Schultz ""going to mental hospital after what she did overnight desperate to escape arrest.""",fake,fake,Correct
+13229,"""You can look at the propaganda on a lot of the terrorists' sites and what Donald Trump saysÂ about Muslims is used to recruit fighters.""",real,fake,Wrong
+15319,"Says Mitt Romney is using ""a million of his presidential campaign dollars to finance his Utah Senate race.""",real,real,Correct
+15544,"""Twitter caught leaking Donald Trumpâs private messages in undercover sting.""",fake,fake,Correct
+2139,"Over the last 10 years, incomes for the top 1 percent ""have grown."" Meanwhile, the bottom half of the country, ""they've seen their wages stagnate.""",real,real,Correct
+13900,"""More than half of Planned Parenthood facilities are in rural or medically underserved areas.""",real,real,Correct
+288,"""You know, Sen. McCain said the other day that we might have troops (in Iraq) for 100 years...""",real,real,Correct
+13949,"""Doctors who discovered cancer enzymes in vaccines all found murdered.""",fake,fake,Correct
+442,"""Barack Obama accepted $200,000 from executives and employees of oil companies.""",real,real,Correct
+2815,"""We now consume at the federal level 25 percent of the gross domestic product. Historically we were at 20 percent. So we've taken 5 percent away from the private sector.""",real,real,Correct
+2816,"Federal spending is ""the highest it's been as a share of our economy in 60 years (and) revenue is the lowest it's been as a share of our economy in 60 years.""",real,real,Correct
+14927,"""Oprah tells Fox News host âall white people have to die.â""",fake,fake,Correct
+1068,"Every year tobacco kills more Americans than did World War II â more than AIDS, cocaine, heroin, alcohol, vehicular accidents, homicide and suicide combined.",real,real,Correct
+11314,"""The marijuana that kids are smoking today is not the same as the marijuana that Jeb Bush smoked 40 years ago.""",real,real,Correct
+11208,"""Youâre more likely to get struck by lightning in Texas"" thanÂ find in-person voter fraud.",real,real,Correct
+8259,"President Barack Obama ""had the legal authority"" to strike Syria without a vote from Congress.",real,fake,Wrong
+15616,"""An elderly British politician has been savagely beaten to a bloody pulp by a gang of anti-Trump protestors because he âwelcomedâ the U.S. president to the United Kingdom.""",fake,fake,Correct
+15014,"""First NFL team declares bankruptcy over kneeling thugs.""",fake,fake,Correct
+15579,"""US representatives promise implement of UN gun-control plans""",fake,fake,Correct
+15190,Says David Hogg wasnât at school during the Parkland school shooting.,fake,fake,Correct
+15592,"Say ""Pope says that the rights of Muslim migrants trump any safety concerns that you might have with them in your country.""",real,fake,Wrong
+9442,"""The U.S. military footprint in Africa is nearly nonexistent.""",real,real,Correct
+1361,"""President Obama's proposal calls for serious cuts in our own long-term carbon emissions,"" but China and India will still be allowed to increase their emissions.",real,real,Correct
+1251,Health care premiums for consumers have doubled since 2001.,real,real,Correct
+1315,Guantanamo Bay detainees will get the H1N1 vaccine.,real,real,Correct
+14063,"""Ted Nugent killed in hunting accident.""",fake,fake,Correct
+14064,"""China account(s) for 90 percent of North Korean trade.""",real,real,Correct
+12052,"Foreign aid ""is less than 1 percent of our federal budget.""",real,real,Correct
+13905,"SaysÂ ""Georgia becomes first state to ban Muslim culture in historic move to restore Western values.""",fake,fake,Correct
+134,"""Senator Clinton tried to spend $1 million on the Woodstock Concert Museum.""",real,real,Correct
+13087,"""Latinos are 17 percent of our country's population but hold only 2 percent of its wealth.""",real,real,Correct
+12721,"Says Hillary Clinton ""said all work-related emails were sent back to the State Department. The FBI director said, that's not true.""",real,fake,Wrong
+6657,"""After a decade of decline, this country created over half a million manufacturing jobs in the last two and a half years.""",real,real,Correct
+10209,"Congress has 11 percent approval ratings, yet 96.4 percent of incumbent lawmakers were re-elected in 2014.",real,real,Correct
+14595,"""Las Vegas shooting witnesses report multiple gunmen dressed as security guards.""",fake,fake,Correct
+14384,"""A witness will testify against Hillary Clinton.""",fake,fake,Correct
+11773,"Says Virginia Del. Mark Cole ""wants schools to check childrenâs genitals before using bathroom.""",fake,fake,Correct
+8769,"""Only 3 percent of voters 18 to 34 don't believe that climate change is really happening.""",real,real,Correct
+14421,"""Dwayne 'The Rock' (Johnson) Has Officially Filed For The 2020 Presidential Campaign""",fake,fake,Correct
+14771,"""Civil war erupts in Sweden as irate Swedes burn nine Muslim refugee centers to the ground""",fake,fake,Correct
+7511,"""More than 64 percent of minimum-wage earners are women.""",real,real,Correct
+14754,"Says a Washington Post reporter is ""calling to find out if anyone at this address is a female between the ages of 54 to 57 years old willing to make damaging remarks about candidate Roy Moore"" for up to $7,000.",fake,fake,Correct
+14161,"President Donald Trump ""announced that he would reinstate a national day of remembrance for fallen officers that the traitor before him had done away with.""",fake,fake,Correct
+4411,"""The day President Obama took office, gasoline was $1.79 a gallon.""",real,real,Correct
+14666,"Says Tampa Bay Lightning hockey player J.T. Brown was ""fired after raising fist during national anthem.""",fake,fake,Correct
+13052,"Heroin comes in the United States ""from the southern border.""",real,real,Correct
+14769,"""BUSTED: NASA Accidentally destroys every climate change advocate by exposing massive truth behind Antarctica.""",fake,fake,Correct
+14731,"Says Roy Moore said a ""practicing Muslim should not be a member of Congress because of his faith.""",real,fake,Wrong
+14835,"""Facebook picks sides in Alabama Senate race ... shuts down Gateway Pundit and Breitbart reports on discredited Allred accuser""",fake,fake,Correct
+13897,"Says ""Snoop Dogg arrested for conspiracy after talking about his âmurder Trumpâ video.""",fake,fake,Correct
+13443,"Under Donald Trump's tax plan, ""51 percent of single parents would see their taxes go up.""",real,fake,Wrong
+12627,"Says Donald Trumpâs proposed tax treatment of hedge fund managers ""makes the current loophole even worse.""",real,fake,Wrong
+1040,"""President Obama will now own 60 percent of GM, and his union buddies will own almost 20 percent.""",real,real,Correct
+3192,"""Some politicians â¦ want to put new taxes on a lot of groceries.""",real,real,Correct
+527,"John McCain opposed bankruptcy protections for families ""who were only in bankruptcy because of medical expenses they couldn't pay.""",real,real,Correct
+673,"""Today, we import triple the amount of oil than we had on the day Senator McCain took office.""",real,real,Correct
+2298,"""The federal government is now on track"" for the second-largest budget deficit ""in 65 years.""",real,real,Correct
+10348,"""We're now the No. 1 producer of oil in the world. We've surpassed Saudi Arabia.""",real,real,Correct
+1575,"""House  Appropriations Chair David Obey's partial earmark ban wouldn't apply to 90% of  earmarks.""",real,real,Correct
+4130,"""The black unemployment rate (has) increased since the recovery has begun.""",real,real,Correct
+160,"""Dodd brought both parties together to pass the Family and Medical Leave Act.""",real,real,Correct
+3919,"""The average unemployed American has been out of work for almost 40 weeks.""",real,real,Correct
+370,"""We send a billion dollars to foreign countries every day because of our addiction to foreign oil.""",real,real,Correct
+100,"""He's sued gun manufacturers. He was supportive of Brady. He was supportive of things like assault weapon bans.""",real,fake,Wrong
+215,"""The oddest thing is he doesn't want to do for America what he did for Massachusetts. He did mandate health care for Massachusetts, which is HillaryCare, and he doesn't want to do that for America.""",real,real,Correct
+247,"Romney refused to pardon ""a decorated soldier"" returning from Iraq who had been charged with a crime involving a BB gun when he was 13.",real,fake,Wrong
+303,"""While I was working on those streets watching those folks see their jobs shift overseas, you were a corporate lawyer sitting on the board at Wal-Mart.""",real,real,Correct
+15604,"""NASA will pay you $100,000 to stay in bed for 60 days!""",fake,fake,Correct
+15266,"""Fox News accidentally puts up a poll graphic that shows how they are the least trusted network.""",fake,fake,Correct
+66,"Poor people go to a ""payday lender...and they pay 300, 400, 500 percent interest.""",real,real,Correct
+426,"""The Children's Defense Fund rated McCain as the worst senator in Congress for children.""",real,real,Correct
+10903,"""You can fill out your tax return in Estonia online in five minutes.""",real,fake,Wrong
+15402,"SayÂ Maxine Waters told CNNâs Anderson Cooper that her first act as president would be to ""impeach Donald Trump.""",fake,fake,Correct
+14036,"Illegal immigrationÂ on the U.S.-Mexico border is ""the lowest in 17 years.""",real,real,Correct
+23,"""At least Obama didn't marry his cousin,"" as Giuliani did.",real,real,Correct
+245,"Former business partner Robert Gay says: ""The man who helped save my daughter was Mitt Romney.""",real,real,Correct
+13619,"""By funding the authorization thatâs already happened a decade ago (in the Secure Fence Act of 2006), we could start the process of meeting Mr. Trumpâs campaign pledge to secure the border.""",real,real,Correct
+14534,"Democrats ""setup""Â and ""manipulated"" the political violence in Charlottesville",fake,fake,Correct
+3179,"Under Hosni Mubarak's rule, ""Egypt received more American dollars than any country besides Israel.""",real,real,Correct
+14469,"""Obama is in Texas serving meals!""",fake,fake,Correct
+13919,"""A New York man has allegedly infected 240 people with the HIV virus by sleeping with men and women.""",fake,fake,Correct
+13931,"Says extras are needed to portray aliens in a Star Wars movie being shot near Rosenberg, Texas.",fake,fake,Correct
+15645,"""In December of 2017, the Prince William board of supervisors had a meeting ... (Corey Stewart) skipped that meeting to go campaign in Alabama for Roy Moore to be a U.S. senator â¦ You haven't disavowed Roy Moore's name yet.""",real,fake,Wrong
+12587,"""Risk analysts listed Donald Trump, a Donald Trump presidency, as one of the top threats facing the global economy, ahead of terrorism.""",real,fake,Wrong
+6645,"Under President Barack Obamaâs leadership, ""since June 2009, (the auto) industry has added a quarter of a million jobs.""",real,real,Correct
+15625,"""Puerto Rico mayor facing fraud charges over $3M in federal disaster relief""",fake,fake,Correct
+14750,"""Breaking! Roy Mooreâs accuser worked for Democratic leaders and is actively campaigning for Mooreâs opponent.""",fake,fake,Correct
+513,"""Obama voted to support President Bush between 40 and 50 percent of the time over the past two years.""",real,real,Correct
+3341,Says the Army is spending $7 million to sponsor a NASCAR team.,real,real,Correct
+304,"""If you are African-American in this country today, you are likely to have a net worth of about 10 percent of what white families have.""",real,real,Correct
+13501,"Lady Gaga announced she would cover her face ""until Trump gets fired from office.""",fake,fake,Correct
+15532,"""Mexicoâs Next President Calls for An Invasion Of The US""",fake,fake,Correct
+13929,"""BREAKING: Nancy Pelosi Was Just Taken From Her Office In Handcuffs""",fake,fake,Correct
+503,"""Sen. Obama has been to Iraq once.""",real,real,Correct
+224,"""When Pakistan erupted in crisis, I spoke to Musharraf before Bush did.""",real,fake,Wrong
+13130,"""In Chicago, they've had thousands of shootings, thousands since Jan. 1. Thousands of shootings.""",real,real,Correct
+13138,"Says Donald Trump ""started his career back in 1973 being sued by the Justice Department for racial discrimination because he would not rent apartments in one of his developments to African-Americans.""",real,fake,Wrong
+13912,"""President Trump just told Paul Ryan, âYouâre fired.â""",fake,fake,Correct
+769,"""Barack Obama ... 96 percent of his votes have been solely along party line.""",real,real,Correct
+14426,"""Virginia police arrest wrong person to cover for Antifa member who ran over protesters.""",fake,fake,Correct
+3050,Says she condemned violence at a campaign stop in Arizona in March.,real,fake,Wrong
+14827,"""Gloria Allred Accuser **ADMITS** She Tampered With Roy Mooreâs Yearbook 'Signature.'Â """,fake,fake,Correct
+2959,"Under the compromise tax agreement, ""99.7% of American families will not pay 1 nickel in an estate tax.""",real,real,Correct
+11416,"""Sen. Sanders did vote five times against the Brady bill.""",real,real,Correct
+2943,"In 2007, ""the top 1 percent of all income earners in the United States made 23.5 percent of all income,"" which is ""more than the entire bottom 50 percent.""",real,real,Correct
+3117,"""The debt will soon eclipse our entire economy.""",real,real,Correct
+15191,"""Ohio student suspended for staying in class during National Walkout Day""",real,fake,Wrong
+11066,"Says she ""called for addressing risks of derivatives, cracking down on subprime mortgages and improving financial oversight"" early on in the financial crisis.",real,real,Correct
+3984,"The U.S. is spending ""one out of every six Defense Department dollars on Afghanistan.""",real,real,Correct
+14225,"""There are currently 6 million jobs available in this country that are due in part to the skills gap.""",real,real,Correct
+7618,"Says in Chicago, ""we take more guns off the streets than New York or L.A.""",real,real,Correct
+13484,"Harambe received 15,000 votes in the presidential election.",fake,fake,Correct
+10945,"""The topÂ 25 hedge fund managers (are) making more than all of America's kindergarten teachers combined.""",real,real,Correct
+195,"""The truth of the matter is that during my administration, the FBI's crime statistics show that violent crime was reduced in Massachusetts by 7 percent.""",real,real,Correct
+15379,"""It begins: California appoints first illegal alien to state office.""",real,fake,Wrong
+15512,"Says the ""Pope calls for world wide gun confiscation except for the UN""",fake,fake,Correct
+104,"""I don't think that Rudy or Fred or John McCain support the marriage amendment.""",real,real,Correct
+568,"Obama worked with ""Sen. Dick Lugar, a Republican, to help lock down loose nuclear weapons.""",real,real,Correct
+691,"""That luxury jet was over the top. I put it on eBay.""",real,real,Correct
+671,"Three years ago, John McCain said, ""Afghanistan â we don't read about it anymore in papers because it succeeded.""",real,real,Correct
+14840,"""Now itâs official: FDA announced that vaccines are causing autism.""",fake,fake,Correct
+15004,"""NFL lawyer, who claimed Super Bowl is âriggedâ, found dead.""",fake,fake,Correct
+438,"The United States is ""seeing greater income inequality now than any time since the 1920s.""",real,real,Correct
+1051,"Contends that President Obama ""literally said (if) his cap-and-trade proposals were to pass, that utility rates, his words now, would, 'necessarily skyrocket.'""",real,fake,Wrong
+6931,Says Obama broke his promise to offer a comprehensive immigration bill in his first year.,real,real,Correct
+10533,"Last year, ""we saw the first reduction in the federal prison population in 32 years.""",real,real,Correct
+14114,"The federal tax code includes ""deductions for birds flying across America.""",real,fake,Wrong
+14116,Say Lance Armstrong is dead.,fake,fake,Correct
+2166,"During the recession, ""the consumer in his native perversity has begun to save. The savings rate is now 6.2 percent.""",real,fake,Wrong
+14188,"""Trumpâs Top Scientist Pick: âScientists Are Just Dumb Regular People That Think Dinosaurs Existed And The Earth Is Getting Warmerâ""",fake,fake,Correct
+7376,"""After shedding jobs for more than 10 years, our manufacturers have added about 500,000 jobs over the past three.""",real,real,Correct
+11711,"Says American polling shows Russian President Vladimir Putin has ""an 80 percent approval rating.""",real,real,Correct
+8071,"Says ""our deficits are falling at the fastest rate in 60 years.""",real,real,Correct
+12801,"""Ninety percent of Americans want our background check system strengthened and expanded to cover more gun sales.""",real,real,Correct
+13431,"""Spanish was the first European language spoken in this country.""",real,real,Correct
+3180,"Israel's per capita income ""is greater than probably three-fourths of the rest of the world.""",real,real,Correct
+3539,"A government shutdown ""could disrupt ... veterans' benefits.""",real,real,Correct
+3734,The Obama administration increased the deportation of illegal immigrants convicted of crimes by 70 percent.,real,real,Correct
+13561,"""Putin Interference Could Give Courts Legal Right to Make Hillary President.""",fake,fake,Correct
+14749,"Says a Washington Post reporterÂ who broke news on Judge Roy Moore story has a criminal history of ""faking.""",fake,fake,Correct
+14837,"A Colgate toothpaste is subject to ""recall.""",fake,fake,Correct
+4586,"""Our government right now. . . (is) spending 40 percent more than what we take in.""",real,real,Correct
+14506,"""30,000 scientists have come forward confirming that man-made climate change is a hoax perpetuated by the elite in order to make money.""",fake,fake,Correct
+15477,"""New law (in California) makes it illegal to shower and do laundry on same day""",fake,fake,Correct
+4088,"""There are actually half a million fewer government employees now than there were when (President Barack) Obama took office.""",real,real,Correct
+13745,"Says a Republican U.S. House member from Texas, Rob McCaskill, tweeted that he ""canât wait for the next 9/11.""",fake,fake,Correct
+4358,"""We've had 11,000 attempts to amend the Constitution since 1789.""",real,real,Correct
+15262,"""Greitens accuser admits photo session may have been a âdream.â """,real,fake,Wrong
+207,"""I saved the taxpayers $2-billion on a bogus Air Force Boeing tanker deal where people went to jail.""",real,real,Correct
+13136,"According to ""independent experts,"" Donald Trump's tax plan ""would blow up the debt by over $5 trillion and would in some instances disadvantage middle-class families compared to the wealthy.""",real,real,Correct
+667,McCain voted 19 times against a minimum-wage increase.,real,real,Correct
+2208,"""The overall fact about illegal immigration is that it's not actually getting worse.""",real,real,Correct
+649,"""We spend more on health care than any other country, but we're ranked 47th in life expectancy and 43rd in child mortality.""",real,real,Correct
+1140,Preventive care does not save the government money.,real,fake,Wrong
+463,"Hillary Clinton advocates ""a freeze on foreclosures. Barack Obama said no.""",real,real,Correct
+7923,"""Since Newtown, more people have died at the end of a gun than we have lost in Afghanistan.""",real,real,Correct
+5237,Says he eliminated an EPA rule that treated spilled milk like it was oil.,real,real,Correct
+5410,"""Over 40 percent of children born in America are born out of wedlock.""",real,real,Correct
+14174,"""Syria and Nicaragua are the only nations that didn't sign the Paris Agreement. Nicaragua said it wasn't tough enough.""",real,real,Correct
+4720,Says Mitt Romney flip-flopped on abortion.,real,real,Correct
+14722,"""Texas Church shooter was Antifa and wanted to start (a) âcommunist revolution.â """,fake,fake,Correct
+11399,"Says Donald Trump ""supports eminent domain"" and the Supreme Courtâs KeloÂ decision.",real,fake,Wrong
+14427,"""Charlottesville car attacker is anti-Trump Antifa supporter.""",fake,fake,Correct
+14447,Says there is proof Democrats hired actors to plan violence in Charlottesville.,fake,fake,Correct
+14511,"""No court has held (Deferred Action for Childhood Arrivals) unconstitutional.""",real,fake,Wrong
+11627,"""Instead of fighting ISIS, (the Saudis) have focused more on a campaign to oust Iran-backed Houthi rebels in Yemen.""",real,fake,Wrong
+2048,"""We're spending $1 trillion a year on our foreign policy.""",real,real,Correct
+1755,"""At the moment, energy companies spend 0.25 percent on R&D.""",real,real,Correct
+2318,"Sharron Angle ""would eliminate the Department of Education.""",real,real,Correct
+2258,"""U.S. taxpayers are being forced to fund Feisal Abdul Raufâs trip to the Middle East.""",real,real,Correct
+2241,"""In 1935, more than 50% of the elderly population lived in poverty. Today that poverty rate stands officially at 9.4%.""",real,real,Correct
+9151,"""When people enter the service, thereâs not a mental health evaluation.""",real,real,Correct
+3113,"""Two years after the worst recession most of us have ever known ... corporate profits are up.""",real,real,Correct
+13038,"Says President Barack Obama ""has taken less vacation days than any other president in a generation,"" while Congress ""has taken more vacation days than any other Congress in history.""",fake,fake,Correct
+13068,"""Trump Management was charged with discriminating against African-Americans and breaking federal law.""",real,fake,Wrong
+6472,"Says Mitt Romney ""wants to end tax credits for wind producers.""",real,real,Correct
+5659,"Last year, ""Exxon pocketed nearly $4.7 million every hour.""",real,real,Correct
+6408,"""As president, Barack Obama has never visited Israel.""",real,real,Correct
+13921,"Government orders South African firm ""to lay off 3,389 white employees.""",fake,fake,Correct
+11580,"When President Barack Obama said ISIS, or ISIL, was contained, he ""was responding very specifically to the geographic expansion of ISIL in Iraq and Syria.""",real,fake,Wrong
+3115,"The United States has ""one of the highest corporate tax rates in the world.""",real,real,Correct
+15418,"""Just in: John Kerry facing prison.""",fake,fake,Correct
+12755,"""An amendment, pushed by Lyndon Johnson many years ago, threatens religious institutions with a loss of their tax-exempt status if they openly advocate their political views.""",real,real,Correct
+4181,"""President Reagan did it (raised the debt ceiling) 18 times.Â  George W. Bush did it seven times.""",real,real,Correct
+14167,"""Many of the countries in question (in Trumpâs travel ban) don't even have a U.S. embassy there to help us vet.""",real,fake,Wrong
+287,"""I'm proud of the fact that I've raised more money from small donors than anybody else, and that we're getting $25, $50, $100 donations, and we've done very well doing it that way.""",real,real,Correct
+13942,"""New regulation requires motorcycle owners to install 75 MPH governor by January 2017""",fake,fake,Correct
+73,"""Each year, 18,000 people die in America because they don't have health care.""",real,real,Correct
+14070,"""General Flynn got his clearance from the Obama administration.""",real,fake,Wrong
+825,"John McCain's health care plan ""won't guarantee coverage of cancer screenings or maternity care.""",real,fake,Wrong
+1026,"""The reality is, we are holding some of the most dangerous terrorists in the world right now in our federal prisons, including the mastermind of the 1993 World Trade Center bombing, the 'shoe bomber,' the 'Unabomber,' and many others.""",real,real,Correct
+3898,"The budget for the Consumer Financial Protection Bureau ""is only about 1 percent of the amount banks generate just from late fees and overdraft fees.""",real,real,Correct
+15453,"""Weâve been down this road beforeâblanket protectionism is a big part of why America had a Great Depression.""",real,real,Correct
+13420,"Says Donald Trump ""wants to undo marriage equality.""",real,fake,Wrong
+13515,"Says actor Dwayne ""The Rock"" Johnson wore a T-shirt stating: ""We Stand for the flag, we kneel for the fallen.""",fake,fake,Correct
+3935,"Then-Sen. Barack Obama ""refused to raise the debt ceiling because he said President Bush had failed in leadership.""",real,real,Correct
+13682,"""About three-quarters of (Syrian refugees) are women and children. A full third of them are kids under 12 years old.""",real,real,Correct
+6603,"In his first TV interview as president, Obama said we ""should talk to Iran.""",real,real,Correct
+15341,"""Breaking: Czech Republic arms citizens. You can now shoot terrorists on sight.""",fake,real,Wrong
+12418,"""When I was secretary of state, I had a very high approval rating.""",real,real,Correct
+3527,"""We lost more jobs in this great recession than the last four recessions combined.""",real,real,Correct
+4291,"""One in four Texans lacks health insurance, the highest proportion in the nation.""",real,real,Correct
+1177,"If you ""already have health insurance through your job, or Medicare, or Medicaid, or the VA, nothing in this plan will require you or your employer to change the coverage or the doctor you have.""",real,fake,Wrong
+512,"""John McCain decided to stand with George Bush 95 percent of the time (last year).""",real,real,Correct
+14402,"U.S. Sen. John McCain ""was singlehandedly responsible for starting a fire on (the) USS Forrestal aircraft carrier.""",fake,fake,Correct
+11699,"""If you are going to kill the families of terrorists, realize that there's something called the Geneva Convention we're going to have to pull out of.""",real,fake,Wrong
+4850,Says Mitt Romney flip-flopped on abortion.,real,real,Correct
+9691,"""The House of Representatives has never sued a sitting president in all of U.S. history.""",real,fake,Wrong
+13260,"""We've had Muslims in America since George Washington.""",real,fake,Wrong
+13303,"""We have 17 intelligence agencies, civilian and military, who have all concluded that these espionage attacks, these cyberattacks, come from the highest levels of the Kremlin, and they are designed to influence our election.""",real,fake,Wrong
+13244,"Says Donald Trumpâs tax plan gives the wealthy and corporations ""more than the Bush tax cuts by at least a factor of two.""",real,real,Correct
+13943,"""The Notebook is finally getting a sequel. Producers of the upcoming film confirmed .... that filming will begin in Jacksonville, North Carolina this summer.""",fake,fake,Correct
+14991,"""Fall River, Massachusetts was not 'built by immigrants.'Â """,fake,fake,Correct
+285,"""(My dad) used to campaign against the gas-guzzling dinosaurs.""",real,real,Correct
+3428,"Federal spending is ""all discretionary, other than interest on the national debt. Social Security is discretionary. We have the discretion to change the law. Same is true with Medicare and Medicaid.""",real,real,Correct
+10371,"Western Europeans ""can fly in the United States without even having a visa.""",real,fake,Wrong
+3198,Tells President Barack Obama that he also asked former President George W. Bush about how he felt about Americans hating him.,real,fake,Wrong
+3304,"""Every (Wisconsin) legislator that votes for this bill"" will have to ""give up the same amount of pay"" as other state employees.",real,real,Correct
+15371,"""Trump votes for death penalty for being gay.""",fake,fake,Correct
+14474,"""I think what the authors of the (25th) Amendment principally had in mind was some kind of physical incapacitation or serious mental illness or a breakdown, an inability to function in office.""",real,fake,Wrong
+14155,"""(James) Comey knew murdered DNC staffer, Seth Rich, was WikiLeaks source & covered it up for Hillary (Clinton).""",fake,fake,Correct
+3731,"""The Border Patrol has 20,000 agents â more than twice as many as there were in 2004.""",real,real,Correct
+11021,"""The House of Representatives just voted 300-131 to remove âcountry-of-origin labelingâ on chicken, pork, and beef sold in the U.S.""",real,fake,Wrong
+7182,"""This week the House of Representatives voted to remove the word âlunaticâ from federal law.""",real,fake,Wrong
+2592,New Castle County's unemployment rate has not almost doubled in the last two years.,real,real,Correct
+15133,Says China and Singapore impose the death penalty on drug dealers.,real,fake,Wrong
+2435,"""There's a big chunk of the country that thinks that I have been too soft on Wall Street.""",real,real,Correct
+542,"""You know, the approval rating of Congress is down to 13 percent.""",real,real,Correct
+751,"""The average South Korean isÂ 3 inches taller than the average North Korean, a huge gulag.""",real,real,Correct
+740,"""Palin (proposed) a $150 bounty for the severed foreleg of each killed wolf.""",real,real,Correct
+6932,"When Mitt Romney was governor of Massachusetts, he ""stood in front of a coal plant and pointed at it and said, âThis plant kills.â""",real,real,Correct
+5276,"In July 1996, Mitt Romney helped locate the missing teenage daughter of a partner at Bain Capital.",real,fake,Wrong
+11770,"SaysÂ Bernie Sanders ""has reversed his position on immunity"" for gun manufacturers and sellers.",real,real,Correct
+13496,CNN accidentally aired 30 minutes of pornography in Boston on Thanksgiving night.,fake,fake,Correct
+15570,"""Obama secretly gave citizenship to 2,500 Iranians as part of nuke deal.""",fake,fake,Correct
+10787,"""The Iranians are now saying that what we're saying the deal is and what they understand it to be are two different things.""",real,real,Correct
+239,"""It used to be the policy of the Republican Party to get rid of the Department of Education. We finally get in charge and a chance to do something, so we double the size of the Department of Education.""",real,real,Correct
+1866,"California's credit rating is ""the worst in the country.""",real,real,Correct
+106,"""Look, I believe in accountability. In 1983, I led the effort in Arkansas to improve our schools.""",real,real,Correct
+14596,"""San Juan Teamsters didn't show up for work to distribute relief supplies"" because they went on strike.",fake,fake,Correct
+648,"""Less than four cents of every health care dollar is spent on prevention and public health.""",real,real,Correct
+357,"""She flunked the D.C. bar exam.""",real,fake,Wrong
+599,"""I have repeatedly said that many of the predatory loans that were made in the mortgage system did target African-American and Latino communities.""",real,fake,Wrong
+423,"""McCain opposes a woman's right to choose.""",real,real,Correct
+7390,"""The 12 hottest years on record have come in the last 15 years.""",real,real,Correct
+1180,"""The claim ... that we plan to set up panels of bureaucrats with the power toÂ   kill off senior citizens ... is a lie, plain and simple.""",real,fake,Wrong
+11115,"""(Hillary Clinton's State Department) actually admonished one of her ambassadors because he wasnât using the proper server.""",real,fake,Wrong
+4451,"Under President Barack Obamaâs jobs bill, ""you can sue if you are unemployed and don't get the job and think you weren't hired because you are unemployed.""",real,fake,Wrong
+4177,"""When the Republicans were in charge, they actually expanded government health care with the prescription drug program.""",real,real,Correct
+11191,"Says Donald Trump has ""changed his mind"" on abortion.",real,fake,Wrong
+11072,"""In New Orleans, nearlyÂ 100 percent of our kids are in charter schools.""",real,real,Correct
+9802,"""Washington has incentivized the militarization of local police precincts.""",real,real,Correct
+910,"""The Capitol was built by slaves.""",real,fake,Wrong
+2624,"Ken Buck wants to ""outlaw abortion, even in cases of rape or incest.""",real,real,Correct
+13352,"Says Donald Trump ""was asked if he would defend our allies. He said well, first he'd want to know if they made any payments to us to defend them.""",real,fake,Wrong
+276,"Says Time magazine called him ""one of America's best governors.""",real,fake,Wrong
+6267,"Says Mitt Romney ""had millions in a Swiss bank account.""",real,real,Correct
+186,"""I'm proud to have had a 100 percent pro-life voting record.""",real,real,Correct
+5321,"""If you take into account all the people who are struggling for work, or have just stopped looking, the real unemployment rate is over 15 percent.""",real,real,Correct
+13058,"Says Donald Trump'sÂ foundation ""took money other people gave to his charity and then bought a six-foot-tall painting of himself.""",real,fake,Wrong
+15525,"""Obama administration kept illegal Mexican kids in detention camps as âexperimentâ""",fake,fake,Correct
+2205,"About 106,000 soldiers had ""a prescription of three weeks or more"" for pain, depression or anxiety medication.",real,real,Correct
+2281,"""There is already a mosque four blocks away.""",real,real,Correct
+6831,Says Obama promised to cut the deficit in half.,real,real,Correct
+12486,"""A trade war is something very different (than curbing new trade agreements). We went down that road in the 1930s. It made the Great Depression longer and more painful.""",real,fake,Wrong
+15135,"""Seattle police begin gun confiscations: no laws broken, no warrant, no charges.""",fake,fake,Correct
+4275,"""Obamacare was patterned after (Mitt Romney's) plan in Massachusetts.""",real,real,Correct
+502,"John McCain ""has not led on nonproliferation issues when he had the chance in the Senate.""",real,real,Correct
+246,"Huckabee ""granted 1,033 pardons and commutations . . . more clemencies than the previous three governors combined.""",real,real,Correct
+8537,"""Things went wrong with the Medicare prescription D plan that George Bush rolled out.""",real,real,Correct
+348,"Hillary Clinton ""starts off with 47 percent of the country against her.""",real,real,Correct
+329,"Hillary Clinton ""actually differed with (John McCain) by arguing for exceptions for torture before changing positions.""",real,real,Correct
+4591,"""The people in Massachusetts like (the state health care plan) by about a 3-1 margin.""",real,real,Correct
+401,"John McCain and George Bush have ""absolutely no plan for universal health care.""",real,fake,Wrong
+554,"""The legislation ... that Senator McCain supports would provide the authority for the federal government to surveille American citizens in their own country without any suspicion whatsoever that they're engaging in discussions with terrorists or about criminal activity.""",real,real,Correct
+201,"""The mayor said â¦ 'if you happen to be in this country in an undocumented status . . . then we welcome you here.  We want you here.  We'll protect you here.' """,real,real,Correct
+582,"""For at least a year now, I have called for two additional brigades, perhaps three.""",real,real,Correct
+3892,"Says Craig Huey called Planned Parenthood a ""murder mill.""",real,fake,Wrong
+677,"Sarah Palin ""has had 12 years of elected office experience.""",real,fake,Wrong
+208,"MikeHuckabee.com gets ""more hits than virtually any other presidential candidate.""",real,fake,Wrong
+574,"""McCain got more money from Airbus' U.S. executives than any other politician.""",real,real,Correct
+206,"""I get the most money from active duty officers and military personnel.""",real,real,Correct
+6641,"""Since 1961 â¦ our private economy has produced 66 million private-sector jobs. So what's the jobs score? Republicans 24 million, Democrats 42 (million).""",real,real,Correct
+1161,"""Since World War II, only Gerald Ford and Bill Clinton have had worse ratings after seven months than President Obama.""",real,real,Correct
+2594,"John Raese's wife ""is registered to vote in Florida so she can't even vote for him.""",real,fake,Wrong
+15031,"""Food stamp enrollment drops by four million in one month.""",real,real,Correct
+310,"""Now, I also support the Bush tax cuts. Sen. McCain voted against them originally. He now believes they should be made permanent. I'm glad he agrees they should be made permanent.""",real,real,Correct
+14144,"Democratic National Committee staffer Seth Rich ""apparently was assassinated at 4 in the morning, having given WikiLeaks something like 53,000 emails and 17,000 attachments. ... It turns out, it wasnât the Russians.""",fake,fake,Correct
+4809,"""The median income of a middle class family went down $2,100 from 2001 to 2007.""",real,real,Correct
+6234,"Says Mitt Romney ""has a corporation in Bermuda (but) failed to disclose that on seven different financial disclosures.""",real,real,Correct
+968,"""Warren (Buffett) still does support me.""",real,fake,Wrong
+2836,"The radiation coming from the new TSA body scanners is ""equivalent to about three minutes' worth of air travel by anybody, say, at 30,000 feet.""",real,real,Correct
+1106,"""All private healthcare plans must conform to government rules to participate in a Healthcare Exchange.""",real,fake,Wrong
+3335,"""Most federal employees do not have collective bargaining for benefits, nor for pay.""",real,fake,Wrong
+4190,"""The deficit was on track to top $1 trillion the year I took office.""",real,real,Correct
+2758,"Members of Congress did not have three days to read the bill ""when the stimulus was rushed into law.""",real,real,Correct
+642,"Says McCain once said that on ""the most important issues of our day, I've been totally in agreement and support of President Bush.""",real,real,Correct
+12945,"""Almost half a million people are still eligible (for DACA), particularly in the Asian-American and Pacific Islander community.""",real,real,Correct
+1823,Halliburton gave Dick Cheney a $34 million payout when he left the company to join the presidential ticket.,real,fake,Wrong
+746,"John McCain wants to ""give oil companies another $4-billion"" in tax breaks.",real,real,Correct
+8611,"""Just days ago, Iran's Supreme Leader (Ali) Khamenei, who will oversee implementation of this agreement, was calling Israel a 'rabid dog' and accusing the United States of war crimes.""",real,fake,Wrong
+695,"Senate Majority Leader Harry Reid ""said, quote, 'I can't stand John McCain.' """,real,real,Correct
+7506,"""When (John) Brennan ... was asked directly â¦ âIs there any geographic limitation to your drone strike program?â Brennan responded and said, âno, there is no limitation.â""",real,real,Correct
+6089,"Says Barack Obama is ""trying to slash funding for the Armed Pilots Program designed to prevent terror attacks.""",real,fake,Wrong
+14880,"""Pier 39 terrorist was an anti-Trump antifa supporter.""",real,fake,Wrong
+14135,"Says there are thousands of registered voters over 110 years old in North Carolina, including one who is 219 years old.",fake,fake,Correct
+1143,"Pregnant women trying to buy health insurance on their own are barred from maternity coverage because they have a ""pre-existing condition.""",real,real,Correct
+509,"U.S. forces in Iraq and Afghanistan include a ""few thousand that are still green card holders who are not even citizens of this country.""",real,real,Correct
+7872,"""There was no surge in 501(c)(4) applications in 2010.""",real,real,Correct
+546,Says Obama opposes offshore drilling and a gas tax holiday.,real,fake,Wrong
+84,"""Obama Skips Out On Condemning Left-Wing Attacks On Gen. Petraeus Despite Casting Other 'Important Votes' Earlier And Later In The Day.""",real,fake,Wrong
+150,"""We had a No Child Left Behind â a similar piece of legislation in our state a number of years ago, well before the federal law. And it's had a big impact here. It's improved schools.""",real,real,Correct
+211,"""He was a member of the Iraq Study Group and was either fired or quit from a very important commission that was trying to figure out the way forward in Iraq.""",real,fake,Wrong
+13766,"""Muslims offended that their kids have to recite national anthem.""",fake,fake,Correct
+99,"""One man opposed a flawed strategy in Iraq. One man had the courage to call for change. One man didn't play politics with the truth.""",real,fake,Wrong
+1130,"The health care plan for members of Congress ""is no better than the janitor who cleans their offices.""",real,fake,Wrong
+319,"Mitt Romney previously believed ""that abortion should be safe and legal in this country."" Now he is ""prolife.""",real,real,Correct
+5868,"Says Mitt Romney is proposing a ""tax cut that gives an average of $250,000 to every millionaire in this country.""",real,real,Correct
+279,"""(Ronald Reagan) raised taxes a billion dollars in his first year as governor of California.""",real,real,Correct
+14664,"An undocumented immigrant ""was arrested on suspicion of arson in (the) Wine Country fires that have killed at least 40 residents.""",fake,fake,Correct
+6612,"At Bain Capital, ""we helped start an early childhood learning company called Bright Horizons that First Lady Michelle Obama rightly praised.""",real,fake,Wrong
+14932,"""First indictment issued in Russian bribery case tied to Obama-era Uranium One deal.""",fake,fake,Correct
+429,"""As a state senator, he (Obama) even refused to support a measure to stop sex businesses from opening near schools or places of worship!""",real,fake,Wrong
+6730,"""Forty-seven percent of Americans pay no income tax.""",real,real,Correct
+2093,"""I never called for a partition"" of Iraq.",real,fake,Wrong
+1063,"Says the Congressional Budget Office estimates a cap-and-trade program would cost the average family the equivalent of ""a postage stamp a day.""",real,fake,Wrong
+669,"""John McCain has voted with George Bush 90 percent of the time.""",real,real,Correct
+8005,"""There was a Gallup poll in Egypt last year, and 70 percent of Egyptians don't want our money.""",real,real,Correct
+4879,"The balanced-budget amendment once came within one vote of passing Congress but was defeated because of the no vote from a top Senate Republican, and Rick Santorum says he ""stood up and called for him to resign his chairmanship.""",real,real,Correct
+7668,"""The NRA used to support expanded background checks.""",real,fake,Wrong
+333,"John McCain has said the economy is ""not his strong suit.""",real,fake,Wrong
+7665,"Polls show that Americans ""overwhelmingly"" support ""expanding background checks.""",real,real,Correct
+785,"""Two years ago...I wrote to Secretary Paulson, I wrote to Federal Reserve Chairman Bernanke, and told them [subprime lending] is something we have to deal with.""",real,fake,Wrong
+12148,"When it comes to fighting terrorism, ""Another thing we know that does not work, based on lots of empirical evidence, is torture.""",real,fake,Wrong
+7540,"""Seven of the 10 highest-income counties in the country ring the city"" of Washington D.C.",real,real,Correct
+499,"""Ten years ago, John McCain offered a bill that said he would ban a candidate from paying registered lobbyists.""",real,real,Correct
+806,"""Congressman John Lewis, an American hero, made allegations that Sarah Palin and I were somehow associated with ... the worst chapter in American history. ... And, Senator Obama, you didn't repudiate those remarks.""",real,fake,Wrong
+906,"""Geithner still didn't correct the same type of error for some years, even after the Internal Revenue Service flagged him for the failure to pay the taxes in other years.""",real,real,Correct
+4433,"""In writing his book, Gov. Perry pointed out that â¦ by any measure Social Security has been a failure.""",real,fake,Wrong
+4372,"""The ratio of corporate profits to wages is now higher than at any time since just before the Great Depression.""",real,real,Correct
+317,"""The 1990s were a time of prosperity. We created more than 22-million new jobs, moved 8-million people out of poverty, and turned our economy around.""",real,real,Correct
+462,"""A year ago, in March 2007, I called for immediate action to address abuses in the subprime market, and I laid out detailed concrete proposals for how to do so.""",real,fake,Wrong
+11989,"""There have been multiple media reports about (Donald Trump's) business dealings with the mob, with the mafia.""",real,fake,Wrong
+997,"In Iraq, ""civilian deaths, incidents of bombings, etc., remain very low relative to what was going on last year.""",real,real,Correct
+421,"""John McCain voted against establishing a national holiday in honor of Dr. Martin Luther King, Jr.""",real,fake,Wrong
+780,"""I have disagreed strongly with the Bush administration on this issue"" of global warming.",real,real,Correct
+7595,"Says ""94 percent of (Marco Rubio's) constituents support a universal background check.""",real,fake,Wrong
+6556,"Mitt Romney ""gave away his father's inheritance.""",real,real,Correct
+8130,"Says Florida refused to allow theÂ insurance commissioner to ""negotiate lower rates with companies or refuse rates that are too high"" under Obamacare.",real,real,Correct
+1312,"""President Obama campaigned on a promise to put reproductive health care at the center of his reform plan.""",real,real,Correct
+14863,BREAKING: Illegal Muslim From Iran Arrested For Starting California Wildfire,fake,fake,Correct
+263,"""Sen. Obama's chair in New Hampshire is a lobbyist. He lobbies for the drug companies.""",real,fake,Wrong
+2964,"""When Social Security was passed, there were all kinds of lawsuits,"" just as there have been in the legal battle over the new health care law.",real,fake,Wrong
+8989,"Crimea was part of Russia ""until 1954, when it was given to the Soviet Republic of the Ukraine.""",real,real,Correct
+1084,"""Now, there was a time when someone like Scalia and Ginsburg got 95-plus votes.""",real,fake,Wrong
+497,"When McCain was questioned about hiring lobbyists to his campaign staff, ""his top lobbyist actually had the nerve to say, 'The American people won't care about this.' """,real,fake,Wrong
+3281,"If Wisconsin's governor cuts perquisites as much as he plans to do, ""it would still leave (workers) better off than their private sector"" counterparts.",real,real,Correct
+1176,"""Switzerland and the Netherlands . . .  cover all their citizens using private insurers, and they do so for much less cost.""",real,fake,Wrong
+4887,Says he followed state law and the precedent of other Massachusetts governors when he erased electronic communications as he left office.,real,fake,Wrong
+6519,"""Mitt Romney says class sizes donât matter.""",real,real,Correct
+439,"""Again today (Ahmadinejad) made light of 9/11, and said that he's not even sure it happened and that people actually died.""",real,fake,Wrong
+5469,"""Gingrich supported individual health insurance mandates.""",real,real,Correct
+343,"""I'm the only Republican who has gotten endorsements in this presidential race from major labor unions...""",real,real,Correct
+409,"""(Obama) did accept donations from lobbyists and PACs and he spent money in this campaign from that, through his political action committee.""",real,real,Correct
+14920,"The White House staff risks violating federal ethics rules if they participateÂ in Donald Trumpâs ""fake news awards.""",real,fake,Wrong
+3468,"""Most Americans live within 50 miles of a nuclear power plant.""",real,real,Correct
+258,"""Sen. McCain says it was not a mistake to vote against the Bush tax cuts ... but now says the tax cuts need to be made permanent.""",real,real,Correct
+4080,"""Fifty-one percent -- that is, a majority of American households -- paid no income tax in 2009. Zero. Zip. Nada.""",real,real,Correct
+620,"""McCain opposed a requirement that the government buy American-made motorcycles. And he said all buy-American provisions were quote 'disgraceful.' """,real,fake,Wrong
+1307,"""History tells us that job growth always lags behind economic growth.""",real,real,Correct
+979,"""2008 was the deadliest year of the war (in Afghanistan) for American forces.""",real,real,Correct
+700,"""My grandfather came home from ... (World War II) exhausted from the burdens he had borne, and died the next day.""",real,fake,Wrong
+4306,"The ""mega-rich"" pay about 15 percent in taxes, while the middle class ""fall into the 15 percent and 25 percent income tax brackets, and then are hit with heavy payroll taxes to boot.""",real,real,Correct
+627,"The musical Mamma Mia! has ""been selling out for years.""",real,fake,Wrong
+1118,"A loophole ""still exists which allows members of Congress and high-powered executive branch appointees to exploit 'insider' knowledge of the financial industry in order to turn personal profit.""",real,real,Correct
+6173,"Obama ""said (the individual mandate) wasn't a tax.""",real,fake,Wrong
+783,"""Sen. Obama has never taken on his party leaders on a single major issue.""",real,real,Correct
+2393,"Taxpayers pay $18,000 a month for House Speaker Nancy Pelosi's district office in downtown San Francisco.",real,real,Correct
+621,"""John McCain's top foreign policy adviser lobbied for... the Republic of Georgia, and McCain has mirrored the position advocated by the government.""",real,real,Correct
+1135,Health care reform will not affect veterans' benefits.,real,fake,Wrong
+741,"Palin supports ""aerial hunting of wolves and other wildlife.""",real,real,Correct
+773,"""John McCain voted against funding the troops because of . . . a timeline in it to draw down American troops.""",real,fake,Wrong
+214,"""Senator Obama's relatives and friends say he has been talking about running for president for at least the last 15 years,"" a campaign spokesman said.",real,fake,Wrong
+489,"""NATO hasn't provided enough troops (in Afghanistan) because they are still angry about us going into Iraq.""",real,real,Correct
+551,"""He won't even support his colleague's ... motion to censure the Bush administration for systemic repeated illegal wiretaps.""",real,fake,Wrong
+1333,"Obama has ""visited more countries and met with more world leaders than any president in his first six months in office.""",real,fake,Wrong
+6146,"""Gov. Romney was very clear, he would veto the DREAM Act.""",real,fake,Wrong
+5690,"""Republicans in Congress refuse to list a single tax loophole they are willing to close.""",real,fake,Wrong
+528,"""John McCain stood up to the president and sounded the alarm on global warming ... five years ago.""",real,real,Correct
+943,"The omnibus spending bill has ""9,427 pork barrel items.""",real,real,Correct
+216,"""A ham and cheese sandwich on one slice of bread is the responsibility of the USDA ... But a ham and cheese sandwich on two slices of bread is the responsibility of the Food and Drug Administration.""",real,real,Correct
+600,"Obama said his proposed $1,000 emergency energy rebate ""will be enough to offset the increased cost of gas for a working family over the next 4 months.""",real,real,Correct
+6537,"""In 2008, candidate Barack Obama attacked John McCain for proposing cuts to Medicare.""",real,fake,Wrong
+681,"Joe Biden ""voted against the first Gulf War. He opposed the surge. He wanted to partition Iraq.""",real,real,Correct
+724,"Obama's tax plan cuts taxes ""for 95 percent of all working families.""",real,real,Correct
+356,"John McCain ""said publicly that Hillary Clinton would make a good president.""",real,fake,Wrong
+320,"Romney used to favor gun control, and said he didn't want to go back to Reagan-Bush.",real,real,Correct
+3455,The coalition of Arab states against Libyaâs Moammar Gadhafi is the biggest coalition against a fellow Arab leader since the Persian Gulf War in 1990-1991.,real,real,Correct
+14940,"Says Donald Trump's use of the term ""fake news"" to undermine journalism ""seems (to have) inspired dictators and authoritarians.""",real,fake,Wrong
+6277,"Says Mitt Romney had millions in the Cayman Islands, a tax haven.",real,real,Correct
+8045,"Food stamp spending ""doubled under President Bush, doubled again under President Obama.""",real,real,Correct
+2734,"Sen. Harry Reid voted ""against declaring English our national language, twice.""",real,fake,Wrong
+679,"""As governor, I've stood up to ... the big oil companies.""",real,real,Correct
+3632,"""Large majorities"" of the public ""oppose major changes to Medicare"" and favor higher taxes on the wealthy.",real,fake,Wrong
+6360,"""Today the Walton family of Walmart own more wealth than the bottom 40 percent of America.""",real,real,Correct
+5632,"President Barack Obama ""reduced the cost of prescription drugs for nearly 3.6 million Americans in 2011.""",real,real,Correct
+7888,"Currently, the intelligence community ""can collect business records on law-abiding Americans who have no connection to terrorism.""",real,real,Correct
+336,"""(John McCain) was even mentioned as a running mate with John Kerry.""",real,fake,Wrong
+1038,"""The nuclear test conducted in our nation this time is the Earth's 2,054th nuclear test. The five permanent members of the U.N. Security Council have conducted 99.99 percent of the total nuclear tests.""",real,real,Correct
+998,"""About halfway through fiscal year 2009, Washington has run out of money.""",real,real,Correct
+408,"Obama spent ""40 percent of the PAC money, 43 percent to be exact, on Iowa, New Hampshire, Nevada and South Carolina politicians.""",real,real,Correct
+4555,"""Today, you have six financial institutions, the largest six, that have assets that are the equivalent of 60 percent of the GDP of the United States of America.""",real,real,Correct
+230,"""George Bush ... used a signing statement (on a FEMA bill) to say, 'I don't have to follow that, unless I choose to.' """,real,fake,Wrong
+951,"""Teddy Roosevelt first called for (health care) reform nearly a century ago.""",real,real,Correct
+368,"He's been endorsed by ""every major newspaper here in the state of Texas.""",real,real,Correct
+379,"""He (Obama) chairs the subcommittee on Europe. ... He's held not one substantive hearing to do oversight.""",real,fake,Wrong
+6939,"Says Mitt Romney suggested that ""employers should be able to make the decision as to whether or not a woman gets contraception through her insurance coverage.""",real,fake,Wrong
+720,John McCain said last year he didn't know of a solution to the mortgage crisis.,real,real,Correct
+834,"""Fidel (Castro) has made his preferences known in the campaign and had some very unkind things to say about me.""",real,fake,Wrong
+596,"""Wild Bill Hickok had his first duel in the town square here. And the family legend is that he is a distant cousin of mine.""",real,real,Correct
+414,"""Iraq is costing each household about $100 a month.""",real,real,Correct
+1255,"Other Western countries have ended their ""Don't Ask, Don't Tell"" policies.",real,real,Correct
+390,"""I've spent 20 years devoted to working on behalf of families who are having a tough time and are seeking out the American dream.""",real,real,Correct
+5011,"Newt Gingrich ""teamed with Nancy Pelosi and Al Gore on global warming.""",real,fake,Wrong
+763,"Barack Obama voted against ""born alive"" legislation in Illinois that was ""virtually identical to the federal law.""",real,fake,Wrong
+412,"""I am a candidate. I have not withdrawn.""",real,real,Correct
+976,"The Republican leadership's budget proposal ""doesn't contain any numbers.""",real,fake,Wrong
+445,"""Hillary Clinton has taken over $800,000 from lobbyists.""",real,real,Correct
+1277,"A request for ""an increase in troops sat on desks in this White House (during the presidency of George W. Bush), including the vice president's, for more than eight months, a resource request filled by President Obama in March.""",real,fake,Wrong
+1213,"Goldman Sachs was Barack Obama's ""No. 1 private contributor.""",real,real,Correct
+809,"""98 percent of small businesses make less than $250,000"" and would not see a tax increase under Barack Obama's plan.",real,real,Correct
+4858,Says Mitt Romney flip-flopped on a taxpayer protection pledge.,real,fake,Wrong
+1027,"""Nobody has ever escaped from one of our federal 'supermax' prisons.""",real,real,Correct
+9734,"""It cost us more to shut the government down than to keep it open.""",real,real,Correct
+683,"Sarah Palin ""already has more executive experience"" than Barack Obama and Joe Biden ""combined.""",real,real,Correct
+3581,"President Obama has ""stopped using the phrase 'war on terror.' """,real,fake,Wrong
+1028,"""You've heard endlessly about waterboarding. It happened to three terrorists.""",real,real,Correct
+535,"""I joined the Gang of 14, seven Republicans, seven Democrats, so that we wouldn't blow up the United States Senate.  Sen. Obama had the opportunity to join that group.  He chose not to.""",real,fake,Wrong
+3320,"""From 2003 to 2006, 'Sesame Street' made more than $211 million from toy and consumer product sales.""",real,real,Correct
+377,"""Could I just point out that ... I seem to get the first question all the time?""",real,fake,Wrong
+12057,"""More than once, I've actually had a conversation with the protesters on substance.""",real,fake,Wrong
+1047,"""In the first round of repayments""Â  from financial institutions that received TARP money, ""the government has actually turned a profit.""",real,real,Correct
+516,"""The U.S. Navy has sailed ships around the world for 60 years with nuclear power plants on them and we've never had an accident.""",real,real,Correct
+5778,"In the past three years, ""we've added enough new oil and gas pipeline to circle the Earth and then some.""",real,real,Correct
+736,"""Grateful insurance company executives and their lobbyists"" from Bermuda gave McCain $50,000.",real,real,Correct
+498,"McCain ""hired some of the biggest lobbyists in Washington to run his campaign.""",real,fake,Wrong
+13469,"Financial conflict-of-interest ""laws don't apply to the president, right? So, the president doesn't have to have a blind trust.""",real,fake,Wrong
+1067,"During a town hall meeting on health care, ""ABC didn't even allow ads that opposed the president's health care plan to be aired.""",real,fake,Wrong
+537,"""More than half of all black children live in single-parent households, a number that has doubled â doubled â since we were children.""",real,real,Correct
+6998,Says Mitt Romney wants to add $2 trillion to defense budget that the military hasnât asked for.,real,fake,Wrong
+2714,"As CEO of WWE, Linda McMahon ""was caught tipping off a ringside physician"" about a federal investigation into illegally distributing steroids to wrestlers.",real,fake,Wrong
+7669,"A bipartisan background check amendment ""outlawed any (gun) registry. Â Plain and simple, right there in the text.""",real,real,Correct
+659,"Biden is ""one of the least wealthy members of the U.S. Senate.""",real,real,Correct
+954,"""AÂ middle-class family donates $1 to charity, they get 15 cents off their income tax. Bill Gates donates $1 to charity, he takes 35 cents off his income tax.""",real,real,Correct
+6646,"Says U.S. Rep. Paul Ryan attacked the president for ""the same amount of Medicare savings that (Ryan) had in his own budget.""",real,fake,Wrong
+6842,Says Romney wants to add $2 trillion to the defense budget that the military hasnât asked for.,real,real,Correct
+4926,"Newt Gingrich ""has suggested"" building ""a mirror system in space"" could improve the Earthâs habitability.",real,fake,Wrong
+1014,"""The president of the United States ... agrees with me"" that marriage should be between a man and a woman.",real,fake,Wrong
+975,"Obama's budget plan would ""take national debt up to about 80 percent of gross national product. ... Historically, it's been about 40 percent.""",real,real,Correct
+11960,"""African-Americans are more likely to be arrested by police and sentenced to longer prison terms for doing the same thing that whites do.""",real,real,Correct
+514,"When the United States invaded Iraq, Saddam Hussein wanted to acquire weapons of mass destruction, and ""he said so himself after his capture.""",real,fake,Wrong
+958,"""I don't do earmarks. I've never done one. I'm not going to do one.""",real,real,Correct
+1013,Senators who have accepted millions in campaign contributions from the financial industry voted against allowing bankruptcy judges to modify home mortgages.,real,real,Correct
+7293,"The tax penalty that the government imposes if you don't buy health insurance ""is lower than it would have cost to buy insurance.""",real,real,Correct
+1216,"Barack Obama and the Democrats have ""proposed a tax for not having health insurance.""",real,fake,Wrong
+3693,"Rep. Paul Ryan's budget proposal cuts ""nothing"" from Medicare, Social Security or defense in the next two to three years, and ""in three years, he does not cut one dime from the debt.""",real,real,Correct
+466,"Tax rates were significantly higher ""in the '40s, the '50s, and the '60s.""",real,real,Correct
+385,Says Clinton did not read the National Intelligence Estimate before voting for the Iraq war.,real,fake,Wrong
+15175,"West Virginia ""has the highest overdose death rate in the nation.""",real,real,Correct
+624,"McCain is ""raising campaign cash with one of (Jack) Abramoff's closest business partners: scandal-plagued conservative activist Ralph Reed.""",real,fake,Wrong
+8227,"According to a recent poll, ""there are more young Republicans enrolled in their parents' (health insurance) plans than young Democrats.""",real,real,Correct
+567,Says Obama flip-flopped on warrantless wiretapping.,real,fake,Wrong
+1256,"A report by the health insurance industry ""ignores some of the key policies that are part of the Senate Finance Committee bill.""",real,fake,Wrong
+339,"In the Illinois Legislature, Barack Obama ""voted 'present,' instead of yes or no"" on seven votes involving abortion rights.",real,fake,Wrong
+6871,"The federal tax code has ""loopholes that are giving incentives for companies that are shipping jobs overseas.""",real,fake,Wrong
+2881,"""Historically,"" Senate ratification of arms control treaties ""has been bipartisan.""",real,real,Correct
+340,"""One man sacrificed for his country. One man opposed a flawed strategy in Iraq. One man had the courage to call for change. One man didn't play politics with the truth. One man stands up to the special interests.""",real,fake,Wrong
+1350,The Senate health care bill does not contain limits on medical malpractice lawsuits.,real,fake,Wrong
+8119,"""Since the Affordable Care Act passed, 90 percent of job growth has been in full-time positions.""",real,fake,Wrong
+810,"Medicare spends ""$15-billion a year on subsidies to insurance companies.""",real,real,Correct
+4787,"""Torture is illegal by our laws. It's illegal by international laws.""",real,real,Correct
+5608,Says Romney flip-flopped on abortion.,real,fake,Wrong
+6473,Says Paul Ryan's budget relies on the same $700 billion in savings from Medicare that Mitt Romney and other Republicans have been attacking Democrats about.,real,real,Correct
+1314,The House of Representatives does not have a prochoice majority.,real,real,Correct
+4875,"For ""the average middle-class family, your taxes today are lower than when I took office.""",real,real,Correct
+10731,"""We are in the sixth year of recovery, and median income is below what it was at the start of the recovery.""",real,real,Correct
+5439,"Says ""Rick Santorum supported (Arlen) Specter over conservative candidates twice.""",real,fake,Wrong
+999,"Washing your hands and covering your mouth when you cough ""makes a huge difference"" in reducing transmission of the flu.",real,fake,Wrong
+961,"AIG ""said they were giving $57 million (in retention payments) to people who were being terminated.""",real,real,Correct
+4028,"Says President Obama ""has fired more cruise missiles than all other Peace Prize winners combined.""",real,real,Correct
+7563,"""If you go back to 1999, Wayne LaPierre testified on behalf of the NRA that background checks were appropriate and should be done.""",real,fake,Wrong
+655,"McCain ""said he was 'stumped' when asked whether contraceptives help stop the spread of HIV.""",real,fake,Wrong
+5447,"Says Mitt Romney said he does not ""line up with the NRA.""",real,fake,Wrong
+1185,"As a candidate, President Obama ""declared that everyone deserves access to reproductive health care that includes abortion, and vowed that this 'right' would be at the heart of his health care reform plan if elected president.""",real,fake,Wrong
+6907,"""There's not one Democrat who endorses"" the Romney-Ryan Medicare plan.",real,fake,Wrong
+11709,"The United States spends ""almost three times per capita what they spend in the U.K."" on health care and ""50 percent more than they pay in France.""",real,real,Correct
+938,"""When the salmonella source was finally identified, FDA officials had to wait for industry approval before they could go live with the [peanut] recall.""",real,real,Correct
+586,Says Obama has flip-flopped on public campaign financing.,real,fake,Wrong
+1199,"The Baucus bill ""contains provisions that would send massive federal subsidies directly to both private insurance plans and government-chartered cooperatives that pay for elective abortion.""",real,fake,Wrong
+6652,"The Obama administration is allowing state waivers from welfare work requirements ""only if they had a credible plan to increase employment by 20 percent.""",real,fake,Wrong
+1204,"""FDR was called a socialist and a communist.""",real,fake,Wrong
+690,"""Governor Palin is the most popular governor in the country.""",real,real,Correct
+486,"McCain sought the political support of minister John Hagee, ""who believes Hurricane Katrina was God's punishment for gay rights and called the Catholic Church 'the Antichrist' and a 'false cult.'""",real,fake,Wrong
+341,"""When I was in college, we used to take a popcorn popper . . . and we would fry squirrel.""",real,real,Correct
+440,"Obama served on a board with former Weather Underground member William Ayers and ""that relationship with Mr. Ayers on this board continued after 9/11.""",real,fake,Wrong
+581,McCain has switched to Obama's position on more troops to Afghanistan.,real,fake,Wrong
+959,"""Last week the Blue Chip Economic Indicators came out that surveys lots of private forecasters. Almost all of them are predicting a turnaround in the third quarter and positive growth in the fourth quarter.""",real,real,Correct
+636,"""Sen. McCain was already turning his sights to Iraq just days after 9/11, and he became a leading supporter of an invasion and occupation of (Iraq).""",real,real,Correct
+495,"""Sen. Obama has declared, and repeatedly reaffirmed his intention to meet the president of Iran without any preconditions.""",real,fake,Wrong
+7489,"Says Jeb Bush ""flip-flop-flip(ped) on immigration.""",real,fake,Wrong
+948,"""The president campaigned against this type of legislation.""",real,fake,Wrong
+1337,"The Senate health care bill ""would leave 24 million people without insurance coverage.""",real,real,Correct
+435,Says she is the subject of 60 books.,real,fake,Wrong
+7714,"Says new Medicare billing guidelines ""have nine codes for (injuries by) turkeys.""",real,real,Correct
+651,"""More than 12,500 service men and women have been discharged on the basis of sexual orientation since the ""Don't Ask, Don't Tell"" policy was implemented, at a cost of over $360 million. Many of those forced out had special skills in high demand, such as translators, engineers, and pilots.""",real,real,Correct
+384,"""John McCain says it's okay with him if the U.S. spends the next thousand years in Iraq.""",real,fake,Wrong
+1279,"The Obama administration notified Poland and the Czech Republic about cancellation of major missile-defense facilities ""at the last minute in midnight phone calls.""",real,fake,Wrong
+608,"""We could save all the oil that they're talking about getting off drilling, if everybody was just inflating their tires and getting regular tune-ups.""",real,fake,Wrong
+1313,"""Barack Obama won't even use the term 'war on terrorism.'""",real,fake,Wrong
+13283,"Says Warren Buffett has publicly said his secretary ""should not be paying a higher tax rate"" than him.",real,real,Correct
+7259,"In 2011, more people were murdered with knives, ""hands or feet"" or ""clubs and hammers"" than with any type of rifle.",real,real,Correct
+14499,"""Hurricane Irma could be a Category 6 by the time it hits East Coast.""",fake,fake,Correct
+1202,"""In some states, it is still legal to deny a woman coverage because she's been the victim of domestic violence.""",real,real,Correct
+9107,"Says Sen. Mitch McConnell is ""the No. 1 recipient of contributions from lobbyists this cycle.""",real,real,Correct
+934,"""Putting three Republicans in my Cabinet...is unprecedented.""",real,real,Correct
+15423,"Says ""Obama paid FBI informant over $1 million to do it to Trump.""",fake,fake,Correct
+8118,"""This year, the overwhelming majority of new jobs are part time.""",real,real,Correct
+548,McCain tells of a fellow Vietnam POW who was beaten for fashioning an American flag that became an inspirational symbol to fellow POWs.,real,fake,Wrong
+8172,"""We now sell more products made in America to the rest of the world than ever before.""",real,real,Correct
+937,"If we got solar energy from ""an area of the Southwestern desert 100 miles on a side, that would be enough, in and of itself, to provide 100 percent of all the electricity needs for the United States of America in a full year.""",real,fake,Wrong
+8085,"""More than 72 percent of children in the African-American community are born out of wedlock.""",real,real,Correct
+7258,"Since 1968, ""more Americans have died from gunfire than died in â¦ all the wars of this country's history.""",real,real,Correct
+1212,"In a now-viral video, ""impressionable youngsters at a public school in New Jersey ... have been instructed to sing the praises of 'Barack Hussein Obama.'""",real,real,Correct
+11882,"Says she ""is 6th in hard dollars raised and has more cash on hand than Governors (John) Kasich and (Chris) Christie combined.""",real,real,Correct
+12294,"""I earned more votes in the state of Wisconsin than Donald Trump did in New York.""",real,real,Correct
+12070,"""Gun violence is by far the leading cause of death for young African American men, outstripping the next nine causes of death combined.""",real,real,Correct
+10423,"The economy is ""creating jobs at the fastest pace since 1999.""",real,real,Correct
+12017,"Like Marco Rubio, Sen. Barack Obama had ""one of the worst attendance records in the Senate.""",real,real,Correct
+12120,"""Bernie Sanders passed more roll call amendments in a Republican Congress than any other member.""",real,real,Correct
+1052,"""Obama has more czars than the Romanovs.""",real,fake,Wrong
